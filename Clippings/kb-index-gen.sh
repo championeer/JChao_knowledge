@@ -1,0 +1,1 @@
+/Users/qianli/0-WORKSPACE/60-Tools/kb-index-gen.sh
