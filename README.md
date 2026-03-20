@@ -1,6 +1,6 @@
 # Knowledge Base
 
-> Auto-generated index. Run `./update-index.sh` to refresh.
+> Auto-generated index. Run `./kb-index-gen.sh` to refresh.
 
 > Classification rules: [CLASSIFICATION.md](CLASSIFICATION.md)
 
@@ -205,4 +205,4 @@
 
 ---
 
-*Last updated: 2026-03-18 13:43:40*
+*Last updated: 2026-03-18 18:01:19*
