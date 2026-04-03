@@ -8,9 +8,11 @@
 
 ## 01-AI-Agents
 
-### Architecture (7)
+### Architecture (9)
 
 - [Agent信息经济学](../01-AI-Agents/Architecture/Agent信息经济学/index.md) — 用Epiplexity理论解释为何Agent的context质量比数量更重要 `#信息论` `#Context工程` `#Epiplexity`
+- [Agent原理架构与工程实践](../01-AI-Agents/Architecture/Agent原理架构与工程实践/index.md) — Agent控制流、上下文工程、工具设计、记忆与多Agent架构的系统梳理 `#agent-architecture` `#context-engineering` `#tool-design`
+- [五层信息价值链情报系统](../01-AI-Agents/Architecture/五层信息价值链情报系统/index.md) — 用五层信息价值链打造高信噪比的主动式个人情报系统 `#information-architecture` `#intelligence-system`
 - [pi-ai与pi-agent-core解析](../01-AI-Agents/Architecture/pi-ai与pi-agent-core解析/index.md) — 逐行解读pi-ai/pi-agent-core源码的分层设计、类型系统与Provider机制 `#源码分析` `#TypeScript` `#Agent框架`
 - [SystemPrompt九层塔解析](../01-AI-Agents/Architecture/SystemPrompt九层塔解析/index.md) — 科普向拆解OpenClaw九层System Prompt如何组装Agent人格与能力 `#SystemPrompt` `#Agent人格` `#分层架构`
 - [SystemPrompt九层架构详解](../01-AI-Agents/Architecture/SystemPrompt九层架构详解/index.md) — 技术向详解九层Prompt每层的组成内容、设计权衡与配置方法 `#SystemPrompt` `#配置指南` `#设计权衡`
@@ -41,9 +43,11 @@
 - [OpenClaw对话式RL训练](../01-AI-Agents/Training/OpenClaw对话式RL训练/index.md) — Princeton论文：从用户对话的下一状态信号中提取奖励实现Agent在线强化学习 `#强化学习` `#在线训练` `#PRM`
 - [OpenClaw强化学习详解](../01-AI-Agents/Training/OpenClaw强化学习详解/index.md) — 图解OpenClaw-RL核心概念：状态信号、过程奖励、策略蒸馏与OPD机制 `#RL详解` `#策略蒸馏` `#OPD`
 
-### Workflows (7)
+### Workflows (9)
 
 - [100小时OpenClaw使用经验](../01-AI-Agents/Workflows/100小时OpenClaw使用经验/index.md) — 浓缩100小时经验的完整指南：本地部署、Brain Dump、定时简报到进阶技巧 `#入门指南` `#最佳实践` `#Brain Dump`
+- [AI-Agent失忆与记忆管理](../01-AI-Agents/Workflows/AI-Agent失忆与记忆管理/index.md) — Agent上下文压缩导致指令丢失的案例分析与永续记忆方案 `#agent-memory` `#context-window`
+- [Karpathy-AI-Agent协作十则](../01-AI-Agents/Workflows/Karpathy-AI-Agent协作十则/index.md) — Karpathy关于并行Agent编排、指令调优与人机协作的十条实用建议 `#karpathy` `#best-practices`
 - [Agent工作交接继任Prompt](../01-AI-Agents/Workflows/Agent工作交接继任Prompt/index.md) — 上下文过长时让Agent生成结构化交接文档给下一个会话的实用Prompt `#会话交接` `#Prompt技巧` `#上下文管理`
 - [OpenClaw中级到高级教程](../01-AI-Agents/Workflows/OpenClaw中级到高级教程/index.md) — 覆盖AGENTS.md规范、记忆优化、子Agent、Cron、Skill开发的进阶教程 `#进阶教程` `#Skill开发` `#Cron`
 - [OpenClaw从入门到精通](../01-AI-Agents/Workflows/OpenClaw从入门到精通/index.md) — 从理论到实战的全面指南，含项目历史、安装部署、配置详解与常见问题 `#入门到精通` `#安装部署` `#全面指南`
@@ -55,8 +59,16 @@
 
 ## 02-AI-Skills-and-Plugins
 
-### Skills (7)
+### Skills (15)
 
+- [ADK五大Skill设计模式](../02-AI-Skills-and-Plugins/Skills/ADK五大Skill设计模式/index.md) — Google ADK五种Agent Skill设计模式：Tool Wrapper、Generator、Reviewer、Inversion、Pipeline `#ADK` `#Skill设计模式`
+- [ADK-Skill内容设计解读](../02-AI-Skills-and-Plugins/Skills/ADK-Skill内容设计解读/index.md) — 从LLM执行者视角解读Google ADK五大Skill内容设计模式 `#ADK` `#Skill内容设计`
+- [二十个AI实用技能合集](../02-AI-Skills-and-Plugins/Skills/二十个AI实用技能合集/index.md) — 20个可直接添加到Claude/ChatGPT/Gemini的.md格式实用技能 `#AI技能` `#实用工具`
+- [Claude技能与GitHub资源清单](../02-AI-Skills-and-Plugins/Skills/Claude技能与GitHub资源清单/index.md) — 从1000+仓库中筛选的精选Claude技能、MCP服务器和GitHub资源合集 `#Claude Skills` `#资源合集`
+- [从零开始编写Skill教程](../02-AI-Skills-and-Plugins/Skills/从零开始编写Skill教程/index.md) — 以AI日报和文章配图为例手把手教你编写SKILL.md `#Skill开发` `#实战教程`
+- [Skill开发与商业变现指南](../02-AI-Skills-and-Plugins/Skills/Skill开发与商业变现指南/index.md) — 从技术开发到六条变现路径，完整拆解Claude Skills生态创业机会 `#Skill开发` `#商业变现`
+- [九十个实用AI工具精选](../02-AI-Skills-and-Plugins/Skills/九十个实用AI工具精选/index.md) — 扫描1000+仓库测试200+技能后精选的90个AI工具清单 `#AI工具` `#Skills精选`
+- [Claude技能变现完整指南](../02-AI-Skills-and-Plugins/Skills/Claude技能变现完整指南/index.md) — 五种可销售的AI服务、定价策略和获客方法的商业化指南 `#AI变现` `#自由职业`
 - [ClaudeSkills小白入门](../02-AI-Skills-and-Plugins/Skills/ClaudeSkills小白入门/index.md) — 面向非技术用户讲解Skills原理与官方Skill启用方法 `#Skills入门` `#Claude.ai`
 - [ClaudeSkills十五分钟上手](../02-AI-Skills-and-Plugins/Skills/ClaudeSkills十五分钟上手/index.md) — 用skill-creator元技能快速创建自定义Skill的分步教程 `#Skills创建` `#非技术用户`
 - [ClaudeSkills2.0终极指南](../02-AI-Skills-and-Plugins/Skills/ClaudeSkills2.0终极指南/index.md) — Skills 2.0新增评估测试、A/B对比和描述优化三大功能 `#Skills2.0` `#技能评估` `#A/B测试`
@@ -65,13 +77,15 @@
 - [SkillCreator2.0实战指南](../02-AI-Skills-and-Plugins/Skills/SkillCreator2.0实战指南/index.md) — 用体检、盲测和描述优化三步法维护Skills最佳状态 `#SkillCreator` `#Skills维护`
 - [从聊天到干活只差一个Skills](../02-AI-Skills-and-Plugins/Skills/从聊天到干活只差一个Skills/index.md) — 用比喻讲透Prompt/Skills/MCP区别及Skills结构设计原理 `#Skills概念` `#入门科普`
 
-### Plugins (2)
+### Plugins (3)
 
+- [七款Claude插件月入千元](../02-AI-Skills-and-Plugins/Plugins/七款Claude插件月入千元/index.md) — 七款可构建和销售的Claude插件及三种官方变现方式的分步指南 `#Claude插件` `#商业变现`
 - [OpenClaw飞书插件指南](../02-AI-Skills-and-Plugins/Plugins/OpenClaw飞书插件指南/index.md) — 飞书官方插件安装配置，让OpenClaw以用户身份操作飞书 `#OpenClaw` `#飞书集成`
 - [OpenClaw插件终极指南](../02-AI-Skills-and-Plugins/Plugins/OpenClaw插件终极指南/index.md) — 系统讲解Skill/Tool/Plugin三者边界及Plugin开发全流程 `#Plugin开发` `#OpenClaw架构`
 
-### Integrations (5)
+### Integrations (6)
 
+- [Openclaw语音克隆实战](../02-AI-Skills-and-Plugins/Integrations/Openclaw语音克隆实战/index.md) — 使用Openclaw+Noiz API实现语音克隆并通过飞书发送的实战教程 `#Openclaw` `#语音克隆`
 - [OpenClaw语音能力开通](../02-AI-Skills-and-Plugins/Integrations/OpenClaw语音能力开通/index.md) — 通过ElevenLabs API为OpenClaw启用TTS语音回复功能 `#TTS` `#语音集成`
 - [OpenClaw文档识别配置](../02-AI-Skills-and-Plugins/Integrations/OpenClaw文档识别配置/index.md) — 接入PaddleOCR实现低成本文档识别，打通线下数据到AI流程 `#OCR` `#文档识别`
 - [OpenClaw微信接入](../02-AI-Skills-and-Plugins/Integrations/OpenClaw微信接入/index.md) — 通过WorkBuddy将微信变为OpenClaw对话入口的配置教程 `#微信` `#渠道接入`
@@ -82,8 +96,21 @@
 
 ## 03-Claude-Code
 
-### Tutorials (7)
+### Tutorials (19)
 
+- [五十条Claude-Code技巧](../03-Claude-Code/Tutorials/五十条Claude-Code技巧/index.md) — 来自官方文档和社区的50条Claude Code日常使用技巧与最佳实践 `#Claude Code` `#最佳实践`
+- [claude文件夹结构详解](../03-Claude-Code/Tutorials/claude文件夹结构详解/index.md) — .claude文件夹完整解剖：CLAUDE.md、rules、commands、skills的配置指南 `#Claude Code` `#.claude文件夹`
+- [claude文件夹团队配置指南](../03-Claude-Code/Tutorials/claude文件夹团队配置指南/index.md) — 从作用域到安全边界，讲透.claude文件夹的分层配置思路 `#Claude Code` `#团队配置`
+- [四文件四命令极简工作流](../03-Claude-Code/Tutorials/四文件四命令极简工作流/index.md) — 一人公司开发者的极简Claude Code工作流：4个markdown+4个命令 `#Claude Code` `#极简工作流`
+- [Superpowers插件使用指南](../03-Claude-Code/Tutorials/Superpowers插件使用指南/index.md) — Superpowers开源工作流框架的七阶段流水线详解 `#Superpowers` `#工作流框架`
+- [三大插件框架对比分析](../03-Claude-Code/Tutorials/三大插件框架对比分析/index.md) — gstack、Superpowers、Compound Engineering三大工具的分层对比 `#gstack` `#Superpowers`
+- [Cowork完整使用指南](../03-Claude-Code/Tutorials/Cowork完整使用指南/index.md) — Claude Cowork桌面代理从安装到自动化的完整使用指南 `#Claude Cowork` `#桌面代理`
+- [Cowork自动化工作原理](../03-Claude-Code/Tutorials/Cowork自动化工作原理/index.md) — Claude Cowork如何直接操作文件系统实现自动化工作 `#Claude Cowork` `#自动化`
+- [Cowork当作第二员工](../03-Claude-Code/Tutorials/Cowork当作第二员工/index.md) — 营销人员如何利用Claude Cowork实现双倍产能的实用策略 `#Claude Cowork` `#营销`
+- [Dispatch远程控制指南](../03-Claude-Code/Tutorials/Dispatch远程控制指南/index.md) — Claude Dispatch通过手机远程控制桌面AI执行任务的完整指南 `#Claude Dispatch` `#远程控制`
+- [规划代理完美输出秘诀](../03-Claude-Code/Tutorials/规划代理完美输出秘诀/index.md) — 借鉴Anthropic内部方法，通过规划代理实现首次完美输出 `#Claude输出优化` `#规划代理`
+- [Claude正确设置全攻略](../03-Claude-Code/Tutorials/Claude正确设置全攻略/index.md) — 从功能到设置的Claude全面配置指南 `#Claude设置` `#使用指南`
+- [为Agent构建CLI](../03-Claude-Code/Tutorials/为Agent构建CLI/index.md) — 为AI Agent构建CLI的设计原则：非交互、JSON输出、确定性命令 `#CLI设计` `#Agent工具`
 - [CLAUDE.md配置示例](../03-Claude-Code/Tutorials/CLAUDE.md配置示例/index.md) — 一份包含工作流编排、任务管理和核心原则的CLAUDE.md参考模板 `#CLAUDE.md` `#配置模板`
 - [Claude百小时实测指南](../03-Claude-Code/Tutorials/Claude百小时实测指南/index.md) — 百小时实战总结Claude订阅选择、提示工程和高级工具链用法 `#Claude入门` `#实战经验`
 - [Claude新手终极指南2026](../03-Claude-Code/Tutorials/Claude新手终极指南2026/index.md) — 英文版Claude全功能入门指南，涵盖提示公式到Code和Cowork `#新手指南` `#Claude全栈`
@@ -107,8 +134,9 @@
 
 ## 04-AI-Infrastructure
 
-### API-Proxy (3)
+### API-Proxy (4)
 
+- [多号自动化防封指南](../04-AI-Infrastructure/API-Proxy/多号自动化防封指南/index.md) — 指纹浏览器+动态IP实现10+社交账号的自动化防封方案 `#多号运营` `#指纹浏览器` `#自动化防封`
 - [自建中转零封号](../04-AI-Infrastructure/API-Proxy/自建中转零封号/index.md) — Sub2API自建中转站完整部署流程，两个月零封号实战经验 `#API中转` `#Sub2API` `#防封号`
 - [从零搭建API中转站](../04-AI-Infrastructure/API-Proxy/从零搭建API中转站/index.md) — 揭露第三方中转五大隐患，用Cloudflare+Sub2API从零自建安全中转站 `#API中转` `#Cloudflare` `#安全部署`
 - [sub2api部署指南](../04-AI-Infrastructure/API-Proxy/sub2api部署指南/index.md) — Sub2API小白向Docker部署教程，含六步完整配置和运维命令 `#Sub2API` `#Docker` `#部署指南`
@@ -122,20 +150,28 @@
 
 ## 05-AI-Applications
 
-### Content-Creation (4)
+### Content-Creation (8)
 
+- [Obsidian美化设置指南](../05-AI-Applications/Content-Creation/Obsidian美化设置指南/index.md) — Obsidian主题美化和插件配置的完整指南 `#Obsidian` `#主题美化`
+- [NotebookLM课程体系创建](../05-AI-Applications/Content-Creation/NotebookLM课程体系创建/index.md) — 用NotebookLM从零创建完整课程体系的方法 `#NotebookLM` `#课程设计`
+- [AI优化网站实战心得](../05-AI-Applications/Content-Creation/AI优化网站实战心得/index.md) — AI工具优化网站的实战经验分享 `#网站优化` `#AI辅助开发`
+- [Claude代码谷歌地图获客](../05-AI-Applications/Content-Creation/Claude代码谷歌地图获客/index.md) — Claude Code+Google Maps构建七位数获客系统 `#获客自动化` `#Google Maps`
 - [AI生成PPT方案汇总](../05-AI-Applications/Content-Creation/AI生成PPT方案汇总/index.md) — 对比Gemini图片生成、Agent编辑模板、SVG网页三种AI做PPT路线的优缺点 `#PPT生成` `#Gemini` `#Claude`
 - [NotebookLM快速上手](../05-AI-Applications/Content-Creation/NotebookLM快速上手/index.md) — Google NotebookLM十大功能详解，基于资料零幻觉的研究、笔记与PPT工具 `#NotebookLM` `#知识管理` `#Google`
 - [OpenClaw自动采集发公众号](../05-AI-Applications/Content-Creation/OpenClaw自动采集发公众号/index.md) — 用OpenClaw自动抓取资讯、配图并发布微信公众号，成本每篇约1元 `#OpenClaw` `#公众号` `#自动化`
 - [OpenClaw四兄弟写作实战](../05-AI-Applications/Content-Creation/OpenClaw四兄弟写作实战/index.md) — 四个AI Agent组队协作实战，利用OpenClaw记忆与人格系统打造数字分身 `#OpenClaw` `#多Agent协作` `#SOUL.md`
 
-### Research (2)
+### Research (5)
 
+- [Karpathy的AutoResearch](../05-AI-Applications/Research/Karpathy的AutoResearch/index.md) — 当AI开始自己做研究：autoresearch框架的原理与实践 `#AutoResearch` `#Karpathy`
+- [AutoResearch优化Claude技能](../05-AI-Applications/Research/AutoResearch优化Claude技能/index.md) — 用Karpathy autoresearch方法自动迭代优化Claude Skills `#AutoResearch` `#Skill优化`
+- [AutoResearch迭代方法论](../05-AI-Applications/Research/AutoResearch迭代方法论/index.md) — 拆解autoresearch背后的框架思维：工具会过时但方法论不会 `#AutoResearch` `#迭代方法论`
 - [ClaudeCode辅助写论文](../05-AI-Applications/Research/ClaudeCode辅助写论文/index.md) — Claude Code在绘图、代码迁移和数学证明格式化上表现出色，但无法调试基础设施问题 `#ClaudeCode` `#学术写作` `#科研工具`
 - [Karpathy自动研究入门](../05-AI-Applications/Research/Karpathy自动研究入门/index.md) — 基于Karpathy autoresearch框架一条命令启动自动化ML实验循环并追踪结果 `#autoresearch` `#ML实验` `#Karpathy`
 
-### Finance-Tools (2)
+### Finance-Tools (3)
 
+- [OpenClaw量化投研安全铁律](../05-AI-Applications/Finance-Tools/OpenClaw量化投研安全铁律/index.md) — A股量化投研必备Skill一键安装与安全规范 `#OpenClaw` `#量化投研`
 - [OpenClaw精简版彭博终端](../05-AI-Applications/Finance-Tools/OpenClaw精简版彭博终端/index.md) — 接入OpenBB开源金融数据平台，让OpenClaw免费获取股票、宏观、期权等数据 `#OpenBB` `#金融数据` `#OpenClaw`
 - [金融行业十大Skills](../05-AI-Applications/Finance-Tools/金融行业十大Skills/index.md) — 金融场景十个ClawHub必装Skill，覆盖A股数据、监控告警到办公自动化全流程 `#ClawHub` `#金融Skills` `#量化数据`
 
@@ -143,6 +179,10 @@
 
 ## 06-LLM-Foundations
 
+- [LLM知识库构建](../06-LLM-Foundations/LLM知识库构建/index.md) — Karpathy的LLM Knowledge Base方法论：raw→编译→wiki→Q&A循环 `#知识库` `#Obsidian` `#Karpathy`
+- [LLM中的KV缓存](../06-LLM-Foundations/LLM中的KV缓存/index.md) — KV Cache在Transformer推理中的工作原理与优化策略 `#KV缓存` `#推理优化`
+- [递归语言模型详解](../06-LLM-Foundations/递归语言模型详解/index.md) — 递归语言模型(RLM)如何通过循环推理突破传统架构 `#递归语言模型` `#模型架构`
+- [笔记即护城河](../06-LLM-Foundations/笔记即护城河/index.md) — 个人笔记系统在AI时代如何成为不可替代的竞争优势 `#知识管理` `#AI笔记`
 - [AI原生时代个人系统M-PPS](../06-LLM-Foundations/AI原生时代个人系统M-PPS/index.md) — 用自然语言驱动的Claude Skills构建个人目标、日程、反思管理系统，无需编码 `#M-PPS` `#AI原生` `#个人管理`
 - [百万步LLM任务零错误](../06-LLM-Foundations/百万步LLM任务零错误/index.md) — MAKER系统通过极端任务分解与多Agent投票纠错，实现百万步LLM任务零错误 `#MDAP` `#错误纠正` `#任务分解`
 
@@ -156,6 +196,9 @@
 
 ## 10-Thinking-Models
 
+- [放大野心与煮沸海洋](../10-Thinking-Models/放大野心与煮沸海洋/index.md) — AI时代应该放大野心而非缩小，杰文斯悖论与Boil the Ocean思维 `#思维模型` `#AI时代野心`
+- [群体智能预测未来](../10-Thinking-Models/群体智能预测未来/index.md) — 用群体智能和社会模拟方法学习预测未来的完整课程 `#群体智能` `#预测方法`
+- [硅谷顶级PM方法论](../10-Thinking-Models/硅谷顶级PM方法论/index.md) — Lenny's Newsletter的PM方法论资源包与Skill免费开源 `#产品管理` `#PM方法论`
 - [四种产品发现模型](../10-Thinking-Models/四种产品发现模型/index.md) — 用2x2矩阵梳理产品发现的四种组织模式及各自利弊 `#产品管理` `#决策模型` `#组织设计`
 
 ---
@@ -218,6 +261,8 @@
 
 ## 21-Business
 
+- [从层级到智能](../21-Business/从层级到智能/index.md) — Block(Square)从层级管理到AI驱动智能组织的转型实践 `#组织变革` `#AI驱动管理`
+- [决策追踪重塑企业软件](../21-Business/决策追踪重塑企业软件/index.md) — Context Graph如何将B2C的行为数据飞轮复制到B2B决策追踪 `#context-graph` `#B2B` `#enterprise-AI`
 - [特拉华州公司年审缴税指南](../21-Business/特拉华州公司年审缴税指南/index.md) — 特拉华州LLC年审缴税的保姆级实操流程与费用说明 `#公司注册` `#年审报税` `#特拉华`
 
 ---

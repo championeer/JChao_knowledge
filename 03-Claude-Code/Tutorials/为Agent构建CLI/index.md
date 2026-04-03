@@ -11,7 +11,7 @@ tags:
 ---
 If you've ever watched an agent try to use a CLI, you've seen it get stuck on an interactive prompt it can't answer, or parse a help page with no examples. Most CLIs were built assuming a human is at the keyboard. Here are some things I've found that make them work better for agents:如果你曾经观察过客服人员尝试使用命令行界面 (CLI)，你就会发现他们经常卡在无法回答的交互式提示上，或者解析没有示例的帮助页面。大多数 CLI 的设计都假定键盘是由人操作的。以下是我发现的一些可以提高客服人员使用 CLI 效率的方法：
 
-**Make it non-interactive.** If your CLI drops into a prompt mid-execution, an agent is stuck. It can't press arrow keys or type "y" at the right moment. Every input should be passable as a flag. Keep interactive mode as a fallback when flags are missing, not the primary path.**使其非交互式。** 如果命令行界面 (CLI) 在执行过程中突然弹出提示符，代理程序就会卡住。它无法在正确的时间按下方向键或输入“y”。所有输入都应该可以作为标志传递。交互模式应作为标志缺失时的备用方案，而不是主要路径。
+**Make it non-interactive.** If your CLI drops into a prompt mid-execution, an agent is stuck. It can't press arrow keys or type "y" at the right moment. Every input should be passable as a flag. Keep interactive mode as a fallback when flags are missing, not the primary path.**使其非交互式。** 如果命令行界面 (CLI) 在执行过程中突然弹出提示符，代理程序就会卡住。它无法在正确的时间按下方向键或输入"y"。所有输入都应该可以作为标志传递。交互模式应作为标志缺失时的备用方案，而不是主要路径。
 
 ```bash
 # this blocks an agent
@@ -54,7 +54,7 @@ Error: No image tag specified.
   Available tags: mycli build list --output tags
 ```
 
-**Make commands idempotent.** Agents retry constantly. Network timeouts, context getting lost mid-task. Running the same deploy twice should return "already deployed, no-op", not create a duplicate.**使命令幂等。** 代理会不断重试。网络超时、任务执行过程中上下文丢失。重复执行相同的部署操作应该返回“已部署，无操作”，而不是创建重复项。
+**Make commands idempotent.** Agents retry constantly. Network timeouts, context getting lost mid-task. Running the same deploy twice should return "already deployed, no-op", not create a duplicate.**使命令幂等。** 代理会不断重试。网络超时、任务执行过程中上下文丢失。重复执行相同的部署操作应该返回"已部署，无操作"，而不是创建重复项。
 
 **Add --dry-run for destructive actions.** Agents should be able to preview what a deploy or deletion would do before committing. Let them validate the plan, then run it for real.**添加 \`--dry-run\` 参数以执行破坏性操作。** 代理程序应该能够在提交部署或删除操作之前预览其效果。让它们验证计划，然后再实际执行。
 
@@ -70,7 +70,7 @@ $ mycli deploy --env production --tag v1.2.3
 ✓ Deployed v1.2.3 to production
 ```
 
-**\--yes / --force to skip confirmations.** Humans get "are you sure?" and agents pass --yes to bypass it. Make the safe path the default but allow bypassing.**\`--yes\` 或 \`--force\` 参数用于跳过确认。** 人类用户会看到“您确定吗？”的提示，而智能体可以通过传递 \`--yes\` 参数来绕过此提示。将安全路径设为默认路径，但允许绕过此路径。
+**\--yes / --force to skip confirmations.** Humans get "are you sure?" and agents pass --yes to bypass it. Make the safe path the default but allow bypassing.**\`--yes\` 或 \`--force\` 参数用于跳过确认。** 人类用户会看到"您确定吗？"的提示，而智能体可以通过传递 \`--yes\` 参数来绕过此提示。将安全路径设为默认路径，但允许绕过此路径。
 
 **Predictable command structure.** If an agent learns \`mycli service list\`, it should be able to guess \`mycli deploy list\` and \`mycli config list\`. Pick a pattern (resource + verb) and use it everywhere.**可预测的命令结构。** 如果代理学习了 \`mycli service list\` 命令，它应该能够推测出 \`mycli deploy list\` 和 \`mycli config list\` 命令。选择一个模式（资源 + 动词）并到处使用它。
 
