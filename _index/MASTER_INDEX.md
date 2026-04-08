@@ -264,6 +264,7 @@
 - [从层级到智能](../21-Business/从层级到智能/index.md) — Block(Square)从层级管理到AI驱动智能组织的转型实践 `#组织变革` `#AI驱动管理`
 - [决策追踪重塑企业软件](../21-Business/决策追踪重塑企业软件/index.md) — Context Graph如何将B2C的行为数据飞轮复制到B2B决策追踪 `#context-graph` `#B2B` `#enterprise-AI`
 - [特拉华州公司年审缴税指南](../21-Business/特拉华州公司年审缴税指南/index.md) — 特拉华州LLC年审缴税的保姆级实操流程与费用说明 `#公司注册` `#年审报税` `#特拉华`
+- [U卡搞定海外AI订阅](../21-Business/U卡搞定海外AI订阅/index.md) — Bitget U卡六步开卡教程，用USDC充值绑定微信支付宝订阅ChatGPT/Claude等AI服务 `#海外支付` `#虚拟信用卡`
 
 ---
 
