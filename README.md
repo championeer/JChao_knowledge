@@ -8,26 +8,27 @@
 
 | Category | Articles | Books | Notes | Total |
 |----------|----------|-------|-------|-------|
-| 01-AI-Agents | 32 | 0 | 0 | **32** |
+| 01-AI-Agents | 33 | 0 | 0 | **33** |
 | 02-AI-Skills-and-Plugins | 24 | 0 | 0 | **24** |
 | 03-Claude-Code | 25 | 0 | 0 | **25** |
 | 04-AI-Infrastructure | 6 | 0 | 0 | **6** |
 | 05-AI-Applications | 16 | 0 | 0 | **16** |
 | 06-LLM-Foundations | 6 | 0 | 0 | **6** |
-| 10-Thinking-Models | 4 | 0 | 0 | **4** |
+| 10-Thinking-Models | 5 | 0 | 0 | **5** |
 | 20-Investment | 22 | 0 | 0 | **22** |
-| 21-Business | 3 | 0 | 0 | **3** |
-| **Total** | **138** | **0** | **0** | **138** |
+| 21-Business | 4 | 0 | 0 | **4** |
+| **Total** | **141** | **0** | **0** | **141** |
 
 
 ---
 
 ## AI & Technology
 
-### 01-AI-Agents (32)
+### 01-AI-Agents (33)
 
   - [Agent 的信息经济学：少即是多的理论基础](01-AI-Agents/Architecture/Agent信息经济学/index.md)
   - [你不知道的 Agent：原理、架构与工程实践](01-AI-Agents/Architecture/Agent原理架构与工程实践/index.md)
+  - [你的 Agent 有两个老板，你只是其中一个](01-AI-Agents/Architecture/Agent安全与身份信任/index.md)
   - [OpenClaw System Prompt 的"九层塔"：一个 AI Agent 的完整人格是怎么组装出来的？](01-AI-Agents/Architecture/SystemPrompt九层塔解析/index.md)
   - [呕心沥血肝出来的，奉献给你们的龙虾了：OpenClaw Agent System Prompt 架构详解（9层）](01-AI-Agents/Architecture/SystemPrompt九层架构详解/index.md)
   - [深度解析：pi-ai 与 pi-agent-core](01-AI-Agents/Architecture/pi-ai与pi-agent-core解析/index.md)
@@ -156,8 +157,9 @@
 
 ## Humanities & Thinking
 
-### 10-Thinking-Models (4)
+### 10-Thinking-Models (5)
 
+  - [Schlep Blindness](10-Thinking-Models/创业视盲与苦工/index.md)
   - [Four Product Discovery Models A Practical Map](10-Thinking-Models/四种产品发现模型/index.md)
   - [Boil the Ocean](10-Thinking-Models/放大野心与煮沸海洋/index.md)
   - [硅谷顶级PM的方法论免费开源！附Skill和32m资源包下载](10-Thinking-Models/硅谷顶级PM方法论/index.md)
@@ -193,8 +195,9 @@
   - [数据3_回看数据2024年末](20-Investment/Macro/回看数据2024年末/index.md)
   - [数据1_正眼看数据当下身在何处](20-Investment/Macro/正眼看数据当下身在何处/index.md)
 
-### 21-Business (3)
+### 21-Business (4)
 
+  - [一张 U 卡，搞定所有海外订阅支付](21-Business/U卡搞定海外AI订阅/index.md)
   - [From Hierarchy to Intelligence](21-Business/从层级到智能/index.md)
   - [Google's 20-year secret is now available to every enterprise](21-Business/决策追踪重塑企业软件/index.md)
   - [美国特拉华州（Delaware）公司年审与缴税完整指南](21-Business/特拉华州公司年审缴税指南/index.md)
@@ -216,6 +219,9 @@
 
 ## Recent Entries
 
+  - [你的 Agent 有两个老板，你只是其中一个](01-AI-Agents/Architecture/Agent安全与身份信任/index.md) — `01-AI-Agents` *(2026-04-09)*
+  - [Schlep Blindness](10-Thinking-Models/创业视盲与苦工/index.md) — `10-Thinking-Models` *(2026-04-09)*
+  - [一张 U 卡，搞定所有海外订阅支付](21-Business/U卡搞定海外AI订阅/index.md) — `21-Business` *(2026-04-04)*
   - [LLM Knowledge Bases](06-LLM-Foundations/LLM知识库构建/index.md) — `06-LLM-Foundations` *(2026-04-03)*
   - [Google's 20-year secret is now available to every enterprise](21-Business/决策追踪重塑企业软件/index.md) — `21-Business` *(2026-04-03)*
   - [20 Powerful Agentic-Skills for Claude, ChatGPT & Gemini.](02-AI-Skills-and-Plugins/Skills/二十个AI实用技能合集/index.md) — `02-AI-Skills-and-Plugins` *(2026-04-02)*
@@ -233,10 +239,7 @@
   - [I stole Anthropic's internal cheat code for getting perfect Claude outputs on the first try](03-Claude-Code/Tutorials/规划代理完美输出秘诀/index.md) — `03-Claude-Code` *(2026-03-27)*
   - [How To Make Obsidian Beautiful如何让黑曜石变得美丽](05-AI-Applications/Content-Creation/Obsidian美化设置指南/index.md) — `05-AI-Applications` *(2026-03-27)*
   - [KARPATHY 的 AUTORESEARCH：当 AI 开始自己做研究](05-AI-Applications/Research/Karpathy的AutoResearch/index.md) — `05-AI-Applications` *(2026-03-27)*
-  - [工具会过时，框架不会——拆解 autoresearch 背后的迭代方法论【通俗易懂版】](05-AI-Applications/Research/AutoResearch迭代方法论/index.md) — `05-AI-Applications` *(2026-03-25)*
-  - [SKILLS 开发与商业变现指南：下一个独立开发者的金矿](02-AI-Skills-and-Plugins/Skills/Skill开发与商业变现指南/index.md) — `02-AI-Skills-and-Plugins` *(2026-03-24)*
-  - [Top Claude Skills & GitHub Repos for AI — The Only List You Need克劳德 (Claude) 的顶级技能和 GitHub AI 代码库 — 你唯一需要的列表](02-AI-Skills-and-Plugins/Skills/Claude技能与GitHub资源清单/index.md) — `02-AI-Skills-and-Plugins` *(2026-03-23)*
 
 ---
 
-*Last updated: 2026-04-03 20:19:05*
+*Last updated: 2026-04-10 01:09:11*

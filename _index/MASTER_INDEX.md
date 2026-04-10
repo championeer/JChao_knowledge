@@ -8,7 +8,7 @@
 
 ## 01-AI-Agents
 
-### Architecture (9)
+### Architecture (10)
 
 - [Agent信息经济学](../01-AI-Agents/Architecture/Agent信息经济学/index.md) — 用Epiplexity理论解释为何Agent的context质量比数量更重要 `#信息论` `#Context工程` `#Epiplexity`
 - [Agent原理架构与工程实践](../01-AI-Agents/Architecture/Agent原理架构与工程实践/index.md) — Agent控制流、上下文工程、工具设计、记忆与多Agent架构的系统梳理 `#agent-architecture` `#context-engineering` `#tool-design`
@@ -19,6 +19,7 @@
 - [万字提示词造数字灵魂](../01-AI-Agents/Architecture/万字提示词造数字灵魂/index.md) — 基于TELOS系统用十个维度文件构建AI的持久个人化基础设施 `#TELOS` `#个人AI` `#数字身份`
 - [公司即文件系统](../01-AI-Agents/Architecture/公司即文件系统/index.md) — 将企业建模为文件系统，用Unix权限映射组织架构驱动Agent决策 `#文件系统` `#企业Agent` `#架构理念`
 - [文件系统即数据库](../01-AI-Agents/Architecture/文件系统即数据库/index.md) — 用80+文件构建Personal Brain OS，实现渐进式披露的三层信息架构 `#PersonalOS` `#渐进式披露` `#文件架构`
+- [Agent安全与身份信任](../01-AI-Agents/Architecture/Agent安全与身份信任/index.md) — 提示注入攻击让Agent服从双主人，ATP协议用密码学为每条指令绑定可验证身份 `#Agent安全` `#提示注入` `#身份信任`
 
 ### Memory (8)
 
@@ -200,6 +201,7 @@
 - [群体智能预测未来](../10-Thinking-Models/群体智能预测未来/index.md) — 用群体智能和社会模拟方法学习预测未来的完整课程 `#群体智能` `#预测方法`
 - [硅谷顶级PM方法论](../10-Thinking-Models/硅谷顶级PM方法论/index.md) — Lenny's Newsletter的PM方法论资源包与Skill免费开源 `#产品管理` `#PM方法论`
 - [四种产品发现模型](../10-Thinking-Models/四种产品发现模型/index.md) — 用2x2矩阵梳理产品发现的四种组织模式及各自利弊 `#产品管理` `#决策模型` `#组织设计`
+- [创业视盲与苦工](../10-Thinking-Models/创业视盲与苦工/index.md) — 潜意识对苦差事的回避让创业者错过最有价值的机会，直面恐惧才能发现真正的大问题 `#思维模型` `#创业心理` `#决策盲区`
 
 ---
 
