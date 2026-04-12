@@ -16,8 +16,8 @@
 | 06-LLM-Foundations | 6 | 0 | 0 | **6** |
 | 10-Thinking-Models | 5 | 0 | 0 | **5** |
 | 20-Investment | 22 | 0 | 0 | **22** |
-| 21-Business | 4 | 0 | 0 | **4** |
-| **Total** | **141** | **0** | **0** | **141** |
+| 21-Business | 5 | 0 | 0 | **5** |
+| **Total** | **142** | **0** | **0** | **142** |
 
 
 ---
@@ -195,11 +195,12 @@
   - [数据3_回看数据2024年末](20-Investment/Macro/回看数据2024年末/index.md)
   - [数据1_正眼看数据当下身在何处](20-Investment/Macro/正眼看数据当下身在何处/index.md)
 
-### 21-Business (4)
+### 21-Business (5)
 
   - [一张 U 卡，搞定所有海外订阅支付](21-Business/U卡搞定海外AI订阅/index.md)
   - [From Hierarchy to Intelligence](21-Business/从层级到智能/index.md)
   - [Google's 20-year secret is now available to every enterprise](21-Business/决策追踪重塑企业软件/index.md)
+  - [对话大疆汪滔：求真理、得自由、活成故事](21-Business/大疆汪滔创业二十年/index.md)
   - [美国特拉华州（Delaware）公司年审与缴税完整指南](21-Business/特拉华州公司年审缴税指南/index.md)
 
 
@@ -219,6 +220,7 @@
 
 ## Recent Entries
 
+  - [对话大疆汪滔：求真理、得自由、活成故事](21-Business/大疆汪滔创业二十年/index.md) — `21-Business` *(2026-04-12)*
   - [你的 Agent 有两个老板，你只是其中一个](01-AI-Agents/Architecture/Agent安全与身份信任/index.md) — `01-AI-Agents` *(2026-04-09)*
   - [Schlep Blindness](10-Thinking-Models/创业视盲与苦工/index.md) — `10-Thinking-Models` *(2026-04-09)*
   - [一张 U 卡，搞定所有海外订阅支付](21-Business/U卡搞定海外AI订阅/index.md) — `21-Business` *(2026-04-04)*
@@ -238,8 +240,7 @@
   - [践行一人公司，用 4 文件 4 命令管理 Claude Code 全程开发](03-Claude-Code/Tutorials/四文件四命令极简工作流/index.md) — `03-Claude-Code` *(2026-03-27)*
   - [I stole Anthropic's internal cheat code for getting perfect Claude outputs on the first try](03-Claude-Code/Tutorials/规划代理完美输出秘诀/index.md) — `03-Claude-Code` *(2026-03-27)*
   - [How To Make Obsidian Beautiful如何让黑曜石变得美丽](05-AI-Applications/Content-Creation/Obsidian美化设置指南/index.md) — `05-AI-Applications` *(2026-03-27)*
-  - [KARPATHY 的 AUTORESEARCH：当 AI 开始自己做研究](05-AI-Applications/Research/Karpathy的AutoResearch/index.md) — `05-AI-Applications` *(2026-03-27)*
 
 ---
 
-*Last updated: 2026-04-10 01:09:11*
+*Last updated: 2026-04-12 01:21:07*
