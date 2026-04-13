@@ -6,18 +6,18 @@
 
 ## Overview
 
-| Category | Articles | Books | Notes | Total |
-|----------|----------|-------|-------|-------|
-| 01-AI-Agents | 33 | 0 | 0 | **33** |
-| 02-AI-Skills-and-Plugins | 24 | 0 | 0 | **24** |
-| 03-Claude-Code | 25 | 0 | 0 | **25** |
-| 04-AI-Infrastructure | 6 | 0 | 0 | **6** |
-| 05-AI-Applications | 16 | 0 | 0 | **16** |
-| 06-LLM-Foundations | 6 | 0 | 0 | **6** |
-| 10-Thinking-Models | 5 | 0 | 0 | **5** |
-| 20-Investment | 22 | 0 | 0 | **22** |
-| 21-Business | 5 | 0 | 0 | **5** |
-| **Total** | **142** | **0** | **0** | **142** |
+| Category                 | Articles | Books | Notes | Total   |
+| ------------------------ | -------- | ----- | ----- | ------- |
+| 01-AI-Agents             | 33       | 0     | 0     | **33**  |
+| 02-AI-Skills-and-Plugins | 24       | 0     | 0     | **24**  |
+| 03-Claude-Code           | 25       | 0     | 0     | **25**  |
+| 04-AI-Infrastructure     | 6        | 0     | 0     | **6**   |
+| 05-AI-Applications       | 16       | 0     | 0     | **16**  |
+| 06-LLM-Foundations       | 6        | 0     | 0     | **6**   |
+| 10-Thinking-Models       | 5        | 0     | 0     | **5**   |
+| 20-Investment            | 22       | 0     | 0     | **22**  |
+| 21-Business              | 5        | 0     | 0     | **5**   |
+| **Total**                | **142**  | **0** | **0** | **142** |
 
 
 ---
