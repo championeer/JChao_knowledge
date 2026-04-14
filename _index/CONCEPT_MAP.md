@@ -1,14 +1,17 @@
 # 概念关系图
 
-> 跨文章的概念映射。帮助 LLM 发现主题关联和知识间隙。
-> 每个概念节点列出核心文章和关联概念。
-> 编译自 MASTER_INDEX.md，2026-04-03。
+> 跨文章的概念映射 + `_wiki/` 概念页注册表。
+> 每个概念节点列出核心文章、关联概念、以及对应的常青 Wiki 页状态。
+> Wiki 页通过 `/kb-query --promote <slug>` 创建/更新。
+> 编译自 MASTER_INDEX.md，2026-04-03。Phase A 补注册表字段，2026-04-14。
 
 ---
 
 ## 概念节点
 
 ### 1. Agent 记忆架构
+
+**Wiki 页：** [agent-memory](../_wiki/agent-memory.md) ✅ `active`
 
 跨越记忆设计、持久化、多 Agent 共享、腐化修复等维度，是知识库中积累最深的概念。
 
@@ -30,6 +33,8 @@
 
 ### 2. Context 工程与信息架构
 
+**Wiki 页：** `待建` → 建议 slug: `context-engineering`
+
 如何组织、分层、按需披露信息给 LLM，贯穿 Agent 架构、System Prompt、个人操作系统等主题。
 
 - **核心文章**:
@@ -47,6 +52,8 @@
 ---
 
 ### 3. 多 Agent 协作
+
+**Wiki 页：** `待建` → 建议 slug: `multi-agent`
 
 多个 AI Agent 的编排、分工、路由、记忆共享和团队协作模式。
 
@@ -66,6 +73,8 @@
 
 ### 4. System Prompt 设计
 
+**Wiki 页：** `待建` → 建议 slug: `system-prompt`
+
 Prompt 工程中专注于系统级指令的分层构造、人格注入和能力配置。
 
 - **核心文章**:
@@ -82,6 +91,8 @@ Prompt 工程中专注于系统级指令的分层构造、人格注入和能力�
 
 ### 5. OpenClaw 生态
 
+**Wiki 页：** `待建` → 建议 slug: `openclaw`（覆盖面最广，19+ 篇，优先级高）
+
 OpenClaw 平台的部署、配置、插件、Skills、Cron、记忆、集成等全栈实践。知识库中覆盖面最广的单一平台。
 
 - **核心文章**:
@@ -97,6 +108,8 @@ OpenClaw 平台的部署、配置、插件、Skills、Cron、记忆、集成等�
 ---
 
 ### 6. Skills 与插件体系
+
+**Wiki 页：** `待建` → 建议 slug: `skills-and-plugins`
 
 AI Agent 的能力扩展机制：Skill 创建、维护、评估，Plugin 开发，以及 Skill/Tool/Plugin 的架构边界。
 
@@ -116,6 +129,8 @@ AI Agent 的能力扩展机制：Skill 创建、维护、评估，Plugin 开发�
 
 ### 7. Token 优化与成本控制
 
+**Wiki 页：** `待建` → 建议 slug: `token-optimization`
+
 减少 Token 消耗、优化 API 调用成本、聚合多平台额度的实践。
 
 - **核心文章**:
@@ -132,6 +147,8 @@ AI Agent 的能力扩展机制：Skill 创建、维护、评估，Plugin 开发�
 ---
 
 ### 8. Claude Code 工具链
+
+**Wiki 页：** `待建` → 建议 slug: `claude-code`
 
 Claude Code 的架构、配置、最佳实践、环境搭建和工作流。
 
@@ -151,6 +168,8 @@ Claude Code 的架构、配置、最佳实践、环境搭建和工作流。
 
 ### 9. 自动化工作流
 
+**Wiki 页：** `待建` → 建议 slug: `automation-workflows`
+
 将人工流程 Agent 化：定时任务、自动采集发布、自主研究循环、批量内容生产。
 
 - **核心文章**:
@@ -169,6 +188,8 @@ Claude Code 的架构、配置、最佳实践、环境搭建和工作流。
 
 ### 10. API 基础设施
 
+**Wiki 页：** `待建` → 建议 slug: `api-infrastructure`
+
 LLM API 的中转、聚合、安全部署和成本优化底层支撑。
 
 - **核心文章**:
@@ -183,6 +204,8 @@ LLM API 的中转、聚合、安全部署和成本优化底层支撑。
 ---
 
 ### 11. 投资分析框架
+
+**Wiki 页：** `待建` → 建议 slug: `investment-framework`
 
 从筛选标准、财务分析到决策流程的价值投资方法论体系。
 
@@ -204,6 +227,8 @@ LLM API 的中转、聚合、安全部署和成本优化底层支撑。
 
 ### 12. 宏观经济与地缘博弈
 
+**Wiki 页：** `待建` → 建议 slug: `macro-geopolitics`
+
 A 股宏观数据、关税战、中美博弈、经济周期等宏观层面分析。
 
 - **核心文章**:
@@ -218,6 +243,8 @@ A 股宏观数据、关税战、中美博弈、经济周期等宏观层面分析
 ---
 
 ### 13. 深度思考与信息消费
+
+**Wiki 页：** `待建` → 建议 slug: `deep-reading`
 
 AI 时代的信息管理哲学：抗 FOMO、深度阅读 vs 摘要消费、能力模型转型。
 
@@ -234,6 +261,8 @@ AI 时代的信息管理哲学：抗 FOMO、深度阅读 vs 摘要消费、能�
 
 ### 14. 个人 AI 操作系统
 
+**Wiki 页：** `待建` → 建议 slug: `personal-ai-os`
+
 用 AI 构建个人化基础设施：数字身份、个人大脑、目标管理系统。
 
 - **核心文章**:
@@ -249,6 +278,8 @@ AI 时代的信息管理哲学：抗 FOMO、深度阅读 vs 摘要消费、能�
 ---
 
 ### 15. Agent 训练与强化学习
+
+**Wiki 页：** `待建` → 建议 slug: `agent-rl`
 
 从用户对话中提取奖励信号、策略蒸馏、过程奖励模型等 Agent 进化机制。
 
@@ -295,3 +326,29 @@ AI 时代的信息管理哲学：抗 FOMO、深度阅读 vs 摘要消费、能�
 6. **安踏企业研究案例集**: Analysis 分类中 3 篇以安踏为案例（好投资的延长公式、增速为何不同频、打开一份年报），但缺少一篇将散落分析整合为完整企业研究报告的综合文章。
 
 7. **A 股宏观数据追踪方法论**: 3 篇宏观数据文章 + 3 篇关税分析，数据已跨越 2024Q4 到 2025Q1，但缺少一篇将数据追踪流程标准化的方法论文章（数据源、更新节奏、关注指标、异常判定）。
+
+---
+
+## Wiki 页注册表总览
+
+| # | 概念节点 | Wiki slug | 状态 | 源文章数 |
+|---|---|---|---|---|
+| 1 | Agent 记忆架构 | `agent-memory` | ✅ active | 10 |
+| 2 | Context 工程与信息架构 | `context-engineering` | 待建 | 8 |
+| 3 | 多 Agent 协作 | `multi-agent` | 待建 | 7 |
+| 4 | System Prompt 设计 | `system-prompt` | 待建 | 6 |
+| 5 | OpenClaw 生态 | `openclaw` | 待建 | 19+ |
+| 6 | Skills 与插件体系 | `skills-and-plugins` | 待建 | 8 |
+| 7 | Token 优化与成本控制 | `token-optimization` | 待建 | 7 |
+| 8 | Claude Code 工具链 | `claude-code` | 待建 | 8 |
+| 9 | 自动化工作流 | `automation-workflows` | 待建 | 8 |
+| 10 | API 基础设施 | `api-infrastructure` | 待建 | 5 |
+| 11 | 投资分析框架 | `investment-framework` | 待建 | 10 |
+| 12 | 宏观经济与地缘博弈 | `macro-geopolitics` | 待建 | 6 |
+| 13 | 深度思考与信息消费 | `deep-reading` | 待建 | 5 |
+| 14 | 个人 AI 操作系统 | `personal-ai-os` | 待建 | 6 |
+| 15 | Agent 训练与强化学习 | `agent-rl` | 待建 | 5 |
+
+**当前进度：1 / 15（种子 Phase A）**
+
+晋升建议：下一批优先 `openclaw`（覆盖最广）、`context-engineering`（概念最底层）、`investment-framework`（投资域最成熟）。
