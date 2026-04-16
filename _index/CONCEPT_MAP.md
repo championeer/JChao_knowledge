@@ -33,7 +33,7 @@
 
 ### 2. Context 工程与信息架构
 
-**Wiki 页：** `待建` → 建议 slug: `context-engineering`
+**Wiki 页：** [context-engineering](../_wiki/context-engineering.md) ✅ `active`
 
 如何组织、分层、按需披露信息给 LLM，贯穿 Agent 架构、System Prompt、个人操作系统等主题。
 
@@ -53,7 +53,7 @@
 
 ### 3. 多 Agent 协作
 
-**Wiki 页：** `待建` → 建议 slug: `multi-agent`
+**Wiki 页：** [multi-agent](../_wiki/multi-agent.md) ✅ `active`
 
 多个 AI Agent 的编排、分工、路由、记忆共享和团队协作模式。
 
@@ -91,7 +91,7 @@ Prompt 工程中专注于系统级指令的分层构造、人格注入和能力�
 
 ### 5. OpenClaw 生态
 
-**Wiki 页：** `待建` → 建议 slug: `openclaw`（覆盖面最广，19+ 篇，优先级高）
+**Wiki 页：** [openclaw](../_wiki/openclaw.md) ✅ `active`
 
 OpenClaw 平台的部署、配置、插件、Skills、Cron、记忆、集成等全栈实践。知识库中覆盖面最广的单一平台。
 
@@ -205,7 +205,7 @@ LLM API 的中转、聚合、安全部署和成本优化底层支撑。
 
 ### 11. 投资分析框架
 
-**Wiki 页：** `待建` → 建议 slug: `investment-framework`
+**Wiki 页：** [investment-framework](../_wiki/investment-framework.md) ✅ `active`
 
 从筛选标准、财务分析到决策流程的价值投资方法论体系。
 
@@ -334,21 +334,21 @@ AI 时代的信息管理哲学：抗 FOMO、深度阅读 vs 摘要消费、能�
 | # | 概念节点 | Wiki slug | 状态 | 源文章数 |
 |---|---|---|---|---|
 | 1 | Agent 记忆架构 | `agent-memory` | ✅ active | 10 |
-| 2 | Context 工程与信息架构 | `context-engineering` | 待建 | 8 |
-| 3 | 多 Agent 协作 | `multi-agent` | 待建 | 7 |
+| 2 | Context 工程与信息架构 | `context-engineering` | ✅ active | 11 |
+| 3 | 多 Agent 协作 | `multi-agent` | ✅ active | 10 |
 | 4 | System Prompt 设计 | `system-prompt` | 待建 | 6 |
-| 5 | OpenClaw 生态 | `openclaw` | 待建 | 19+ |
+| 5 | OpenClaw 生态 | `openclaw` | ✅ active | 29 |
 | 6 | Skills 与插件体系 | `skills-and-plugins` | 待建 | 8 |
 | 7 | Token 优化与成本控制 | `token-optimization` | 待建 | 7 |
 | 8 | Claude Code 工具链 | `claude-code` | 待建 | 8 |
 | 9 | 自动化工作流 | `automation-workflows` | 待建 | 8 |
 | 10 | API 基础设施 | `api-infrastructure` | 待建 | 5 |
-| 11 | 投资分析框架 | `investment-framework` | 待建 | 10 |
+| 11 | 投资分析框架 | `investment-framework` | ✅ active | 13 |
 | 12 | 宏观经济与地缘博弈 | `macro-geopolitics` | 待建 | 6 |
 | 13 | 深度思考与信息消费 | `deep-reading` | 待建 | 5 |
 | 14 | 个人 AI 操作系统 | `personal-ai-os` | 待建 | 6 |
 | 15 | Agent 训练与强化学习 | `agent-rl` | 待建 | 5 |
 
-**当前进度：1 / 15（种子 Phase A）**
+**当前进度：5 / 15（种子 Phase A → Phase B）**
 
-晋升建议：下一批优先 `openclaw`（覆盖最广）、`context-engineering`（概念最底层）、`investment-framework`（投资域最成熟）。
+晋升建议：下一批优先 `skills-and-plugins`（扩展体系核心）、`macro-geopolitics`（与 investment-framework 互补）、`automation-workflows`（与 multi-agent/openclaw 关联密切）。
