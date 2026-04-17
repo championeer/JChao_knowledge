@@ -97,7 +97,7 @@
 
 ## 03-Claude-Code
 
-### Tutorials (19)
+### Tutorials (20)
 
 - [五十条Claude-Code技巧](../03-Claude-Code/Tutorials/五十条Claude-Code技巧/index.md) — 来自官方文档和社区的50条Claude Code日常使用技巧与最佳实践 `#Claude Code` `#最佳实践`
 - [claude文件夹结构详解](../03-Claude-Code/Tutorials/claude文件夹结构详解/index.md) — .claude文件夹完整解剖：CLAUDE.md、rules、commands、skills的配置指南 `#Claude Code` `#.claude文件夹`
@@ -119,6 +119,7 @@
 - [ClaudeCode官方十三条指导](../03-Claude-Code/Tutorials/ClaudeCode官方十三条指导/index.md) — Claude Code创始工程师Boris分享的13条官方最佳实践 `#官方指导` `#最佳实践`
 - [ClaudeCode三十一天教程](../03-Claude-Code/Tutorials/ClaudeCode三十一天教程/index.md) — 31天每日一技巧，从快捷键到子代理模式的系统性功能教程 `#每日技巧` `#功能速查`
 - [ClaudeCowork入门套件](../03-Claude-Code/Tutorials/ClaudeCowork入门套件/index.md) — Cowork完整入门包：插件安装、上下文文件和日常工作流模板 `#Cowork` `#工作流自动化`
+- [ClaudeCode会话上下文管理](../03-Claude-Code/Tutorials/ClaudeCode会话上下文管理/index.md) — 详解百万token上下文的双刃剑效应，及rewind/compact/子代理等会话管理最佳实践 `#Claude Code` `#会话管理` `#上下文窗口`
 
 ### Environment (3)
 
@@ -273,7 +274,7 @@
 
 ## 22-Political-Economy
 
-*暂无条目*
+- [黄仁勋谈中美芯片AI竞争](../22-Political-Economy/黄仁勋谈中美芯片AI竞争/index.md) — 黄仁勋深度访谈：英伟达供应链护城河、对华芯片禁令的地缘政治风险与AI算力竞争格局 `#中美AI竞争` `#芯片政策` `#英伟达`
 
 ---
 

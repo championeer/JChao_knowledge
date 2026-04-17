@@ -6,18 +6,19 @@
 
 ## Overview
 
-| Category                 | Articles | Books | Notes | Total   |
-| ------------------------ | -------- | ----- | ----- | ------- |
-| 01-AI-Agents             | 33       | 0     | 0     | **33**  |
-| 02-AI-Skills-and-Plugins | 24       | 0     | 0     | **24**  |
-| 03-Claude-Code           | 25       | 0     | 0     | **25**  |
-| 04-AI-Infrastructure     | 6        | 0     | 0     | **6**   |
-| 05-AI-Applications       | 16       | 0     | 0     | **16**  |
-| 06-LLM-Foundations       | 6        | 0     | 0     | **6**   |
-| 10-Thinking-Models       | 5        | 0     | 0     | **5**   |
-| 20-Investment            | 22       | 0     | 0     | **22**  |
-| 21-Business              | 5        | 0     | 0     | **5**   |
-| **Total**                | **142**  | **0** | **0** | **142** |
+| Category | Articles | Books | Notes | Total |
+|----------|----------|-------|-------|-------|
+| 01-AI-Agents | 33 | 0 | 0 | **33** |
+| 02-AI-Skills-and-Plugins | 24 | 0 | 0 | **24** |
+| 03-Claude-Code | 26 | 0 | 0 | **26** |
+| 04-AI-Infrastructure | 6 | 0 | 0 | **6** |
+| 05-AI-Applications | 16 | 0 | 0 | **16** |
+| 06-LLM-Foundations | 6 | 0 | 0 | **6** |
+| 10-Thinking-Models | 5 | 0 | 0 | **5** |
+| 20-Investment | 22 | 0 | 0 | **22** |
+| 21-Business | 5 | 0 | 0 | **5** |
+| 22-Political-Economy | 1 | 0 | 0 | **1** |
+| **Total** | **144** | **0** | **0** | **144** |
 
 
 ---
@@ -87,7 +88,7 @@
   - [龙虾从"会聊天"到"会干活"，只差一个 Skills](02-AI-Skills-and-Plugins/Skills/从聊天到干活只差一个Skills/index.md)
   - [实战教学:从0到1写出一个你自己的Skill](02-AI-Skills-and-Plugins/Skills/从零开始编写Skill教程/index.md)
 
-### 03-Claude-Code (25)
+### 03-Claude-Code (26)
 
   - [My Ghostty setup for Claude Code with SAND Keybindings我的 Claude Code Ghostty 设置搭配 SAND 快捷键方案](03-Claude-Code/Environment/Ghostty-SAND快捷键方案/index.md)
   - [Ghostty：Claude Code的最佳搭档，从零到快乐鬼混](03-Claude-Code/Environment/Ghostty搭配ClaudeCode/index.md)
@@ -96,6 +97,7 @@
   - [Scrapling：把网页抓取做成完整工作流的项目](03-Claude-Code/Scraping/Scrapling抓取工作流/index.md)
   - [CLAUDE-Example](03-Claude-Code/Tutorials/CLAUDE.md配置示例/index.md)
   - [Advent of Claude 31 Days of Claude Code](03-Claude-Code/Tutorials/ClaudeCode三十一天教程/index.md)
+  - [Using Claude Code: Session Management & 1M Context](03-Claude-Code/Tutorials/ClaudeCode会话上下文管理/index.md)
   - [这可能最最权威的 Claude code 教程， Claude code 作者发布 13 条指导](03-Claude-Code/Tutorials/ClaudeCode官方十三条指导/index.md)
   - [你不知道的 Claude Code：架构、治理与工程实践](03-Claude-Code/Tutorials/ClaudeCode架构与治理/index.md)
   - [Ultimate Claude Cowork Starter Pack Every Plugin, Skill, and Workflow You Need终极 Claude Cowork 入门包：你需要的所有插件、技能和工作流程](03-Claude-Code/Tutorials/ClaudeCowork入门套件/index.md)
@@ -203,6 +205,10 @@
   - [对话大疆汪滔：求真理、得自由、活成故事](21-Business/大疆汪滔创业二十年/index.md)
   - [美国特拉华州（Delaware）公司年审与缴税完整指南](21-Business/特拉华州公司年审缴税指南/index.md)
 
+### 22-Political-Economy (1)
+
+  - [黄仁勋最新访谈，谈及中国芯片算力与Anthropic以及Mythos模型等问题（全文2.4万字）](22-Political-Economy/黄仁勋谈中美芯片AI竞争/index.md)
+
 
 ---
 
@@ -220,6 +226,8 @@
 
 ## Recent Entries
 
+  - [Using Claude Code: Session Management & 1M Context](03-Claude-Code/Tutorials/ClaudeCode会话上下文管理/index.md) — `03-Claude-Code` *(2026-04-16)*
+  - [黄仁勋最新访谈，谈及中国芯片算力与Anthropic以及Mythos模型等问题（全文2.4万字）](22-Political-Economy/黄仁勋谈中美芯片AI竞争/index.md) — `22-Political-Economy` *(2026-04-16)*
   - [对话大疆汪滔：求真理、得自由、活成故事](21-Business/大疆汪滔创业二十年/index.md) — `21-Business` *(2026-04-12)*
   - [你的 Agent 有两个老板，你只是其中一个](01-AI-Agents/Architecture/Agent安全与身份信任/index.md) — `01-AI-Agents` *(2026-04-09)*
   - [Schlep Blindness](10-Thinking-Models/创业视盲与苦工/index.md) — `10-Thinking-Models` *(2026-04-09)*
@@ -238,9 +246,7 @@
   - [Claude Cowork: The AI Tool That Actually Does Your Work While You SleepClaude Cowork：一款在你睡觉时也能帮你工作的 AI 工具](03-Claude-Code/Tutorials/Cowork自动化工作原理/index.md) — `03-Claude-Code` *(2026-03-27)*
   - [Building CLIs for agents](03-Claude-Code/Tutorials/为Agent构建CLI/index.md) — `03-Claude-Code` *(2026-03-27)*
   - [践行一人公司，用 4 文件 4 命令管理 Claude Code 全程开发](03-Claude-Code/Tutorials/四文件四命令极简工作流/index.md) — `03-Claude-Code` *(2026-03-27)*
-  - [I stole Anthropic's internal cheat code for getting perfect Claude outputs on the first try](03-Claude-Code/Tutorials/规划代理完美输出秘诀/index.md) — `03-Claude-Code` *(2026-03-27)*
-  - [How To Make Obsidian Beautiful如何让黑曜石变得美丽](05-AI-Applications/Content-Creation/Obsidian美化设置指南/index.md) — `05-AI-Applications` *(2026-03-27)*
 
 ---
 
-*Last updated: 2026-04-12 01:21:07*
+*Last updated: 2026-04-17 01:13:10*
