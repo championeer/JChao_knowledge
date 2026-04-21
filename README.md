@@ -8,25 +8,26 @@
 
 | Category | Articles | Books | Notes | Total |
 |----------|----------|-------|-------|-------|
-| 01-AI-Agents | 33 | 0 | 0 | **33** |
+| 01-AI-Agents | 34 | 0 | 0 | **34** |
 | 02-AI-Skills-and-Plugins | 24 | 0 | 0 | **24** |
 | 03-Claude-Code | 26 | 0 | 0 | **26** |
 | 04-AI-Infrastructure | 6 | 0 | 0 | **6** |
-| 05-AI-Applications | 16 | 0 | 0 | **16** |
+| 05-AI-Applications | 18 | 0 | 0 | **18** |
 | 06-LLM-Foundations | 6 | 0 | 0 | **6** |
 | 10-Thinking-Models | 5 | 0 | 0 | **5** |
 | 20-Investment | 22 | 0 | 0 | **22** |
 | 21-Business | 5 | 0 | 0 | **5** |
 | 22-Political-Economy | 1 | 0 | 0 | **1** |
-| **Total** | **144** | **0** | **0** | **144** |
+| **Total** | **147** | **0** | **0** | **147** |
 
 
 ---
 
 ## AI & Technology
 
-### 01-AI-Agents (33)
+### 01-AI-Agents (34)
 
+  - [Google Deepmind论文解读：如何给AI Agent 投毒](01-AI-Agents/Architecture/AI Agent六类攻击陷阱/index.md)
   - [Agent 的信息经济学：少即是多的理论基础](01-AI-Agents/Architecture/Agent信息经济学/index.md)
   - [你不知道的 Agent：原理、架构与工程实践](01-AI-Agents/Architecture/Agent原理架构与工程实践/index.md)
   - [你的 Agent 有两个老板，你只是其中一个](01-AI-Agents/Architecture/Agent安全与身份信任/index.md)
@@ -126,9 +127,10 @@
   - [免费养虾 openclaw API 聚合工具大全](04-AI-Infrastructure/Optimization/OpenClaw-API聚合工具大全/index.md)
   - [OpenClaw-QMD本地语义搜索+ZenMux节省20倍Token消耗](04-AI-Infrastructure/Optimization/QMD搜索与ZenMux省Token/index.md)
 
-### 05-AI-Applications (16)
+### 05-AI-Applications (18)
 
   - [不要死磕完美！聊聊我利用 AI 工具优化网站的实战心得](05-AI-Applications/Content-Creation/AI优化网站实战心得/index.md)
+  - [2026年AI副业变现超详细实操指南——共5个项目从0-1，让AI选择最适合你的项目并列出to-do-list（合计3w+字）](05-AI-Applications/Content-Creation/AI副业变现五项目指南/index.md)
   - [AI生成豪华PPT的几种方案和使用途径](05-AI-Applications/Content-Creation/AI生成PPT方案汇总/index.md)
   - [this turns claude code and google maps into a 7-figure outbound team这使得克劳德代码和谷歌地图变成了一个价值七位数的对外拓展团队。](05-AI-Applications/Content-Creation/Claude代码谷歌地图获客/index.md)
   - [研究+笔记+PPT之神——NotebookLM 快速上手教程](05-AI-Applications/Content-Creation/NotebookLM快速上手/index.md)
@@ -136,6 +138,7 @@
   - [How To Make Obsidian Beautiful如何让黑曜石变得美丽](05-AI-Applications/Content-Creation/Obsidian美化设置指南/index.md)
   - [龙虾4兄弟的AI写作实战](05-AI-Applications/Content-Creation/OpenClaw四兄弟写作实战/index.md)
   - [手把手教会你用小龙虾自动收集全网资讯整理发公众号](05-AI-Applications/Content-Creation/OpenClaw自动采集发公众号/index.md)
+  - [2026中推5大躺赚路径！新手0成本上手变现5位数，原理+案例合集一次看完](05-AI-Applications/Content-Creation/中推圈AI变现五路径/index.md)
   - [一个免费数据库让你的龙虾成为精简版“彭博终端”](05-AI-Applications/Finance-Tools/OpenClaw精简版彭博终端/index.md)
   - [OpenClaw A股量化投研：必备实战Skill一键安装+量化养虾安全铁律](05-AI-Applications/Finance-Tools/OpenClaw量化投研安全铁律/index.md)
   - [金融行业必装的 10 大 OpenClaw Skills](05-AI-Applications/Finance-Tools/金融行业十大Skills/index.md)
@@ -226,6 +229,9 @@
 
 ## Recent Entries
 
+  - [Google Deepmind论文解读：如何给AI Agent 投毒](01-AI-Agents/Architecture/AI Agent六类攻击陷阱/index.md) — `01-AI-Agents` *(2026-04-20)*
+  - [2026年AI副业变现超详细实操指南——共5个项目从0-1，让AI选择最适合你的项目并列出to-do-list（合计3w+字）](05-AI-Applications/Content-Creation/AI副业变现五项目指南/index.md) — `05-AI-Applications` *(2026-04-19)*
+  - [2026中推5大躺赚路径！新手0成本上手变现5位数，原理+案例合集一次看完](05-AI-Applications/Content-Creation/中推圈AI变现五路径/index.md) — `05-AI-Applications` *(2026-04-19)*
   - [Using Claude Code: Session Management & 1M Context](03-Claude-Code/Tutorials/ClaudeCode会话上下文管理/index.md) — `03-Claude-Code` *(2026-04-16)*
   - [黄仁勋最新访谈，谈及中国芯片算力与Anthropic以及Mythos模型等问题（全文2.4万字）](22-Political-Economy/黄仁勋谈中美芯片AI竞争/index.md) — `22-Political-Economy` *(2026-04-16)*
   - [对话大疆汪滔：求真理、得自由、活成故事](21-Business/大疆汪滔创业二十年/index.md) — `21-Business` *(2026-04-12)*
@@ -243,10 +249,7 @@
   - [I Compared gstack, Superpowers, and Compound Engineering. They Solve Three Completely Different Prob](03-Claude-Code/Tutorials/三大插件框架对比分析/index.md) — `03-Claude-Code` *(2026-03-31)*
   - [7 Claude Plugins You Can Sell for $1,000-$5,000/Month (step-by-step guide)7 款 Claude 插件，月入 1000-5000 美元（分步指南）](02-AI-Skills-and-Plugins/Plugins/七款Claude插件月入千元/index.md) — `02-AI-Skills-and-Plugins` *(2026-03-27)*
   - [Claude Cowork: The Complete Guide (From 0 to 100)Claude Cowork：完整指南（从 0 到 100）](03-Claude-Code/Tutorials/Cowork完整使用指南/index.md) — `03-Claude-Code` *(2026-03-27)*
-  - [Claude Cowork: The AI Tool That Actually Does Your Work While You SleepClaude Cowork：一款在你睡觉时也能帮你工作的 AI 工具](03-Claude-Code/Tutorials/Cowork自动化工作原理/index.md) — `03-Claude-Code` *(2026-03-27)*
-  - [Building CLIs for agents](03-Claude-Code/Tutorials/为Agent构建CLI/index.md) — `03-Claude-Code` *(2026-03-27)*
-  - [践行一人公司，用 4 文件 4 命令管理 Claude Code 全程开发](03-Claude-Code/Tutorials/四文件四命令极简工作流/index.md) — `03-Claude-Code` *(2026-03-27)*
 
 ---
 
-*Last updated: 2026-04-17 01:13:10*
+*Last updated: 2026-04-21 01:06:30*

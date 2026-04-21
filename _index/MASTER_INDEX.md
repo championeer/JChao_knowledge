@@ -8,7 +8,7 @@
 
 ## 01-AI-Agents
 
-### Architecture (10)
+### Architecture (11)
 
 - [Agent信息经济学](../01-AI-Agents/Architecture/Agent信息经济学/index.md) — 用Epiplexity理论解释为何Agent的context质量比数量更重要 `#信息论` `#Context工程` `#Epiplexity`
 - [Agent原理架构与工程实践](../01-AI-Agents/Architecture/Agent原理架构与工程实践/index.md) — Agent控制流、上下文工程、工具设计、记忆与多Agent架构的系统梳理 `#agent-architecture` `#context-engineering` `#tool-design`
@@ -20,6 +20,7 @@
 - [公司即文件系统](../01-AI-Agents/Architecture/公司即文件系统/index.md) — 将企业建模为文件系统，用Unix权限映射组织架构驱动Agent决策 `#文件系统` `#企业Agent` `#架构理念`
 - [文件系统即数据库](../01-AI-Agents/Architecture/文件系统即数据库/index.md) — 用80+文件构建Personal Brain OS，实现渐进式披露的三层信息架构 `#PersonalOS` `#渐进式披露` `#文件架构`
 - [Agent安全与身份信任](../01-AI-Agents/Architecture/Agent安全与身份信任/index.md) — 提示注入攻击让Agent服从双主人，ATP协议用密码学为每条指令绑定可验证身份 `#Agent安全` `#提示注入` `#身份信任`
+- [AI Agent六类攻击陷阱](../01-AI-Agents/Architecture/AI%20Agent六类攻击陷阱/index.md) — Google DeepMind论文系统梳理内容注入、语义操控、记忆投毒等六类AI Agent攻击框架与防御方案 `#AI安全` `#Agent安全` `#攻击防御`
 
 ### Memory (8)
 
@@ -152,7 +153,7 @@
 
 ## 05-AI-Applications
 
-### Content-Creation (8)
+### Content-Creation (10)
 
 - [Obsidian美化设置指南](../05-AI-Applications/Content-Creation/Obsidian美化设置指南/index.md) — Obsidian主题美化和插件配置的完整指南 `#Obsidian` `#主题美化`
 - [NotebookLM课程体系创建](../05-AI-Applications/Content-Creation/NotebookLM课程体系创建/index.md) — 用NotebookLM从零创建完整课程体系的方法 `#NotebookLM` `#课程设计`
@@ -162,6 +163,8 @@
 - [NotebookLM快速上手](../05-AI-Applications/Content-Creation/NotebookLM快速上手/index.md) — Google NotebookLM十大功能详解，基于资料零幻觉的研究、笔记与PPT工具 `#NotebookLM` `#知识管理` `#Google`
 - [OpenClaw自动采集发公众号](../05-AI-Applications/Content-Creation/OpenClaw自动采集发公众号/index.md) — 用OpenClaw自动抓取资讯、配图并发布微信公众号，成本每篇约1元 `#OpenClaw` `#公众号` `#自动化`
 - [OpenClaw四兄弟写作实战](../05-AI-Applications/Content-Creation/OpenClaw四兄弟写作实战/index.md) — 四个AI Agent组队协作实战，利用OpenClaw记忆与人格系统打造数字分身 `#OpenClaw` `#多Agent协作` `#SOUL.md`
+- [中推圈AI变现五路径](../05-AI-Applications/Content-Creation/中推圈AI变现五路径/index.md) — 2026年X中文社区五大躺赚变现路径：API代理、网盘拉新、订阅打赏、广告分成、卖服务 `#AI变现` `#X平台` `#内容创作`
+- [AI副业变现五项目指南](../05-AI-Applications/Content-Creation/AI副业变现五项目指南/index.md) — 从零到变现的五个AI副业项目：AI壁纸、AI短剧、数字人直播、AI短视频、AI写作含详细执行步骤 `#AI变现` `#副业` `#内容创作`
 
 ### Research (5)
 
