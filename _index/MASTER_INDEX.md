@@ -137,12 +137,14 @@
 
 ## 04-AI-Infrastructure
 
-### API-Proxy (4)
+### API-Proxy (6)
 
 - [多号自动化防封指南](../04-AI-Infrastructure/API-Proxy/多号自动化防封指南/index.md) — 指纹浏览器+动态IP实现10+社交账号的自动化防封方案 `#多号运营` `#指纹浏览器` `#自动化防封`
 - [自建中转零封号](../04-AI-Infrastructure/API-Proxy/自建中转零封号/index.md) — Sub2API自建中转站完整部署流程，两个月零封号实战经验 `#API中转` `#Sub2API` `#防封号`
 - [从零搭建API中转站](../04-AI-Infrastructure/API-Proxy/从零搭建API中转站/index.md) — 揭露第三方中转五大隐患，用Cloudflare+Sub2API从零自建安全中转站 `#API中转` `#Cloudflare` `#安全部署`
 - [sub2api部署指南](../04-AI-Infrastructure/API-Proxy/sub2api部署指南/index.md) — Sub2API小白向Docker部署教程，含六步完整配置和运维命令 `#Sub2API` `#Docker` `#部署指南`
+- [中转站防被上游收割](../04-AI-Infrastructure/API-Proxy/中转站防被上游收割/index.md) — 揭露Token质量分层、计费陷阱与消耗倍率黑操作，中转站运营者必读防坑指南 `#API中转` `#Token质量` `#消耗倍率`
+- [API中转站行业深度拆解](../04-AI-Infrastructure/API-Proxy/API中转站行业深度拆解/index.md) — 全面剖析Token进口商业模式的三层盈利结构、用户风险、法律边界与未来趋势 `#API中转站` `#Token进口` `#行业分析`
 
 ### Optimization (2)
 
@@ -272,6 +274,7 @@
 - [特拉华州公司年审缴税指南](../21-Business/特拉华州公司年审缴税指南/index.md) — 特拉华州LLC年审缴税的保姆级实操流程与费用说明 `#公司注册` `#年审报税` `#特拉华`
 - [U卡搞定海外AI订阅](../21-Business/U卡搞定海外AI订阅/index.md) — Bitget U卡六步开卡教程，用USDC充值绑定微信支付宝订阅ChatGPT/Claude等AI服务 `#海外支付` `#虚拟信用卡`
 - [大疆汪滔创业二十年](../21-Business/大疆汪滔创业二十年/index.md) — 《晚点》独家专访大疆创始人汪滔：19小时对谈记录创业反思与管理成长历程 `#创业反思` `#企业管理` `#大疆`
+- [企业AI转型实战指南](../21-Business/企业AI转型实战指南/index.md) — 一人公司创始人以亲身经验拆解企业AI转型的通用需求、ROI算法、薄壳公司模型与安全红线 `#企业AI转型` `#降本增效` `#薄壳公司`
 
 ---
 

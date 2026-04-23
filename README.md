@@ -11,14 +11,14 @@
 | 01-AI-Agents | 34 | 0 | 0 | **34** |
 | 02-AI-Skills-and-Plugins | 24 | 0 | 0 | **24** |
 | 03-Claude-Code | 26 | 0 | 0 | **26** |
-| 04-AI-Infrastructure | 6 | 0 | 0 | **6** |
+| 04-AI-Infrastructure | 8 | 0 | 0 | **8** |
 | 05-AI-Applications | 18 | 0 | 0 | **18** |
 | 06-LLM-Foundations | 6 | 0 | 0 | **6** |
 | 10-Thinking-Models | 5 | 0 | 0 | **5** |
 | 20-Investment | 22 | 0 | 0 | **22** |
-| 21-Business | 5 | 0 | 0 | **5** |
+| 21-Business | 6 | 0 | 0 | **6** |
 | 22-Political-Economy | 1 | 0 | 0 | **1** |
-| **Total** | **147** | **0** | **0** | **147** |
+| **Total** | **150** | **0** | **0** | **150** |
 
 
 ---
@@ -118,9 +118,11 @@
   - [践行一人公司，用 4 文件 4 命令管理 Claude Code 全程开发](03-Claude-Code/Tutorials/四文件四命令极简工作流/index.md)
   - [I stole Anthropic's internal cheat code for getting perfect Claude outputs on the first try](03-Claude-Code/Tutorials/规划代理完美输出秘诀/index.md)
 
-### 04-AI-Infrastructure (6)
+### 04-AI-Infrastructure (8)
 
+  - [API中转站行业深度拆解](04-AI-Infrastructure/API-Proxy/API中转站行业深度拆解/index.md)
   - [sub2api 部署指南（小白版）](04-AI-Infrastructure/API-Proxy/sub2api部署指南/index.md)
+  - [做中转站的，90%的人正在被上游收割，自己还不知道。](04-AI-Infrastructure/API-Proxy/中转站防被上游收割/index.md)
   - [使用各种无良中转后，我掀桌了！一篇教你从0搭建中转站！](04-AI-Infrastructure/API-Proxy/从零搭建API中转站/index.md)
   - [OpenClaw + 指纹浏览器 + 动态 IP：同时养 10+ 个社交账号的自动化防封指南](04-AI-Infrastructure/API-Proxy/多号自动化防封指南/index.md)
   - [又被封号了？自建中转两个月0封，10分钟搞定](04-AI-Infrastructure/API-Proxy/自建中转零封号/index.md)
@@ -200,10 +202,11 @@
   - [数据3_回看数据2024年末](20-Investment/Macro/回看数据2024年末/index.md)
   - [数据1_正眼看数据当下身在何处](20-Investment/Macro/正眼看数据当下身在何处/index.md)
 
-### 21-Business (5)
+### 21-Business (6)
 
   - [一张 U 卡，搞定所有海外订阅支付](21-Business/U卡搞定海外AI订阅/index.md)
   - [From Hierarchy to Intelligence](21-Business/从层级到智能/index.md)
+  - [2026 企业AI转型全面指南](21-Business/企业AI转型实战指南/index.md)
   - [Google's 20-year secret is now available to every enterprise](21-Business/决策追踪重塑企业软件/index.md)
   - [对话大疆汪滔：求真理、得自由、活成故事](21-Business/大疆汪滔创业二十年/index.md)
   - [美国特拉华州（Delaware）公司年审与缴税完整指南](21-Business/特拉华州公司年审缴税指南/index.md)
@@ -229,6 +232,8 @@
 
 ## Recent Entries
 
+  - [做中转站的，90%的人正在被上游收割，自己还不知道。](04-AI-Infrastructure/API-Proxy/中转站防被上游收割/index.md) — `04-AI-Infrastructure` *(2026-04-22)*
+  - [2026 企业AI转型全面指南](21-Business/企业AI转型实战指南/index.md) — `21-Business` *(2026-04-21)*
   - [Google Deepmind论文解读：如何给AI Agent 投毒](01-AI-Agents/Architecture/AI Agent六类攻击陷阱/index.md) — `01-AI-Agents` *(2026-04-20)*
   - [2026年AI副业变现超详细实操指南——共5个项目从0-1，让AI选择最适合你的项目并列出to-do-list（合计3w+字）](05-AI-Applications/Content-Creation/AI副业变现五项目指南/index.md) — `05-AI-Applications` *(2026-04-19)*
   - [2026中推5大躺赚路径！新手0成本上手变现5位数，原理+案例合集一次看完](05-AI-Applications/Content-Creation/中推圈AI变现五路径/index.md) — `05-AI-Applications` *(2026-04-19)*
@@ -247,9 +252,7 @@
   - [From Hierarchy to Intelligence](21-Business/从层级到智能/index.md) — `21-Business` *(2026-04-02)*
   - [How to Start Making Real Money With Claude Skills & Agents — Full Playbook.](02-AI-Skills-and-Plugins/Skills/Claude技能变现完整指南/index.md) — `02-AI-Skills-and-Plugins` *(2026-03-31)*
   - [I Compared gstack, Superpowers, and Compound Engineering. They Solve Three Completely Different Prob](03-Claude-Code/Tutorials/三大插件框架对比分析/index.md) — `03-Claude-Code` *(2026-03-31)*
-  - [7 Claude Plugins You Can Sell for $1,000-$5,000/Month (step-by-step guide)7 款 Claude 插件，月入 1000-5000 美元（分步指南）](02-AI-Skills-and-Plugins/Plugins/七款Claude插件月入千元/index.md) — `02-AI-Skills-and-Plugins` *(2026-03-27)*
-  - [Claude Cowork: The Complete Guide (From 0 to 100)Claude Cowork：完整指南（从 0 到 100）](03-Claude-Code/Tutorials/Cowork完整使用指南/index.md) — `03-Claude-Code` *(2026-03-27)*
 
 ---
 
-*Last updated: 2026-04-21 01:06:30*
+*Last updated: 2026-04-23 01:05:58*
