@@ -137,7 +137,7 @@
 
 ## 04-AI-Infrastructure
 
-### API-Proxy (6)
+### API-Proxy (7)
 
 - [多号自动化防封指南](../04-AI-Infrastructure/API-Proxy/多号自动化防封指南/index.md) — 指纹浏览器+动态IP实现10+社交账号的自动化防封方案 `#多号运营` `#指纹浏览器` `#自动化防封`
 - [自建中转零封号](../04-AI-Infrastructure/API-Proxy/自建中转零封号/index.md) — Sub2API自建中转站完整部署流程，两个月零封号实战经验 `#API中转` `#Sub2API` `#防封号`
@@ -145,6 +145,7 @@
 - [sub2api部署指南](../04-AI-Infrastructure/API-Proxy/sub2api部署指南/index.md) — Sub2API小白向Docker部署教程，含六步完整配置和运维命令 `#Sub2API` `#Docker` `#部署指南`
 - [中转站防被上游收割](../04-AI-Infrastructure/API-Proxy/中转站防被上游收割/index.md) — 揭露Token质量分层、计费陷阱与消耗倍率黑操作，中转站运营者必读防坑指南 `#API中转` `#Token质量` `#消耗倍率`
 - [API中转站行业深度拆解](../04-AI-Infrastructure/API-Proxy/API中转站行业深度拆解/index.md) — 全面剖析Token进口商业模式的三层盈利结构、用户风险、法律边界与未来趋势 `#API中转站` `#Token进口` `#行业分析`
+- [Claude中转号行业内幕](../04-AI-Infrastructure/API-Proxy/Claude中转号行业内幕/index.md) — 拆解Claude中转渠道三大类型：官转套餐、逆向池子、官方API的上游结构与定价逻辑 `#API中转` `#行业分析` `#Claude`
 
 ### Optimization (2)
 
@@ -155,7 +156,7 @@
 
 ## 05-AI-Applications
 
-### Content-Creation (10)
+### Content-Creation (11)
 
 - [Obsidian美化设置指南](../05-AI-Applications/Content-Creation/Obsidian美化设置指南/index.md) — Obsidian主题美化和插件配置的完整指南 `#Obsidian` `#主题美化`
 - [NotebookLM课程体系创建](../05-AI-Applications/Content-Creation/NotebookLM课程体系创建/index.md) — 用NotebookLM从零创建完整课程体系的方法 `#NotebookLM` `#课程设计`
@@ -167,6 +168,7 @@
 - [OpenClaw四兄弟写作实战](../05-AI-Applications/Content-Creation/OpenClaw四兄弟写作实战/index.md) — 四个AI Agent组队协作实战，利用OpenClaw记忆与人格系统打造数字分身 `#OpenClaw` `#多Agent协作` `#SOUL.md`
 - [中推圈AI变现五路径](../05-AI-Applications/Content-Creation/中推圈AI变现五路径/index.md) — 2026年X中文社区五大躺赚变现路径：API代理、网盘拉新、订阅打赏、广告分成、卖服务 `#AI变现` `#X平台` `#内容创作`
 - [AI副业变现五项目指南](../05-AI-Applications/Content-Creation/AI副业变现五项目指南/index.md) — 从零到变现的五个AI副业项目：AI壁纸、AI短剧、数字人直播、AI短视频、AI写作含详细执行步骤 `#AI变现` `#副业` `#内容创作`
+- [AI全自动生成儿童绘本](../05-AI-Applications/Content-Creation/AI全自动生成儿童绘本/index.md) — 用CREAO搭建四节点Agent流水线，结合GPT-Image-2实现输入书名自动产出家庭个性绘本PDF `#AI内容创作` `#自动化工作流` `#儿童绘本`
 
 ### Research (5)
 
@@ -275,6 +277,7 @@
 - [U卡搞定海外AI订阅](../21-Business/U卡搞定海外AI订阅/index.md) — Bitget U卡六步开卡教程，用USDC充值绑定微信支付宝订阅ChatGPT/Claude等AI服务 `#海外支付` `#虚拟信用卡`
 - [大疆汪滔创业二十年](../21-Business/大疆汪滔创业二十年/index.md) — 《晚点》独家专访大疆创始人汪滔：19小时对谈记录创业反思与管理成长历程 `#创业反思` `#企业管理` `#大疆`
 - [企业AI转型实战指南](../21-Business/企业AI转型实战指南/index.md) — 一人公司创始人以亲身经验拆解企业AI转型的通用需求、ROI算法、薄壳公司模型与安全红线 `#企业AI转型` `#降本增效` `#薄壳公司`
+- [Stripe封号申诉全流程](../21-Business/Stripe封号申诉全流程/index.md) — 独立开发者因NSFW触发Stripe全线连坐封禁，三轮申诉复盘封号逻辑与支付多元化策略 `#Stripe` `#支付合规` `#独立开发者`
 
 ---
 

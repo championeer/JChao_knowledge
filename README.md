@@ -11,14 +11,14 @@
 | 01-AI-Agents | 34 | 0 | 0 | **34** |
 | 02-AI-Skills-and-Plugins | 24 | 0 | 0 | **24** |
 | 03-Claude-Code | 26 | 0 | 0 | **26** |
-| 04-AI-Infrastructure | 8 | 0 | 0 | **8** |
-| 05-AI-Applications | 18 | 0 | 0 | **18** |
+| 04-AI-Infrastructure | 9 | 0 | 0 | **9** |
+| 05-AI-Applications | 19 | 0 | 0 | **19** |
 | 06-LLM-Foundations | 6 | 0 | 0 | **6** |
 | 10-Thinking-Models | 5 | 0 | 0 | **5** |
 | 20-Investment | 22 | 0 | 0 | **22** |
-| 21-Business | 6 | 0 | 0 | **6** |
+| 21-Business | 7 | 0 | 0 | **7** |
 | 22-Political-Economy | 1 | 0 | 0 | **1** |
-| **Total** | **150** | **0** | **0** | **150** |
+| **Total** | **153** | **0** | **0** | **153** |
 
 
 ---
@@ -118,9 +118,10 @@
   - [践行一人公司，用 4 文件 4 命令管理 Claude Code 全程开发](03-Claude-Code/Tutorials/四文件四命令极简工作流/index.md)
   - [I stole Anthropic's internal cheat code for getting perfect Claude outputs on the first try](03-Claude-Code/Tutorials/规划代理完美输出秘诀/index.md)
 
-### 04-AI-Infrastructure (8)
+### 04-AI-Infrastructure (9)
 
   - [API中转站行业深度拆解](04-AI-Infrastructure/API-Proxy/API中转站行业深度拆解/index.md)
+  - [科普下中转号里的行业内幕](04-AI-Infrastructure/API-Proxy/Claude中转号行业内幕/index.md)
   - [sub2api 部署指南（小白版）](04-AI-Infrastructure/API-Proxy/sub2api部署指南/index.md)
   - [做中转站的，90%的人正在被上游收割，自己还不知道。](04-AI-Infrastructure/API-Proxy/中转站防被上游收割/index.md)
   - [使用各种无良中转后，我掀桌了！一篇教你从0搭建中转站！](04-AI-Infrastructure/API-Proxy/从零搭建API中转站/index.md)
@@ -129,9 +130,10 @@
   - [免费养虾 openclaw API 聚合工具大全](04-AI-Infrastructure/Optimization/OpenClaw-API聚合工具大全/index.md)
   - [OpenClaw-QMD本地语义搜索+ZenMux节省20倍Token消耗](04-AI-Infrastructure/Optimization/QMD搜索与ZenMux省Token/index.md)
 
-### 05-AI-Applications (18)
+### 05-AI-Applications (19)
 
   - [不要死磕完美！聊聊我利用 AI 工具优化网站的实战心得](05-AI-Applications/Content-Creation/AI优化网站实战心得/index.md)
+  - [我用 CREAO × GPT-Image-2 做了一本全自动生成的女儿绘本](05-AI-Applications/Content-Creation/AI全自动生成儿童绘本/index.md)
   - [2026年AI副业变现超详细实操指南——共5个项目从0-1，让AI选择最适合你的项目并列出to-do-list（合计3w+字）](05-AI-Applications/Content-Creation/AI副业变现五项目指南/index.md)
   - [AI生成豪华PPT的几种方案和使用途径](05-AI-Applications/Content-Creation/AI生成PPT方案汇总/index.md)
   - [this turns claude code and google maps into a 7-figure outbound team这使得克劳德代码和谷歌地图变成了一个价值七位数的对外拓展团队。](05-AI-Applications/Content-Creation/Claude代码谷歌地图获客/index.md)
@@ -202,8 +204,9 @@
   - [数据3_回看数据2024年末](20-Investment/Macro/回看数据2024年末/index.md)
   - [数据1_正眼看数据当下身在何处](20-Investment/Macro/正眼看数据当下身在何处/index.md)
 
-### 21-Business (6)
+### 21-Business (7)
 
+  - [记一次 Stripe 封号：从全线封禁到全部恢复](21-Business/Stripe封号申诉全流程/index.md)
   - [一张 U 卡，搞定所有海外订阅支付](21-Business/U卡搞定海外AI订阅/index.md)
   - [From Hierarchy to Intelligence](21-Business/从层级到智能/index.md)
   - [2026 企业AI转型全面指南](21-Business/企业AI转型实战指南/index.md)
@@ -232,6 +235,9 @@
 
 ## Recent Entries
 
+  - [科普下中转号里的行业内幕](04-AI-Infrastructure/API-Proxy/Claude中转号行业内幕/index.md) — `04-AI-Infrastructure` *(2026-04-23)*
+  - [我用 CREAO × GPT-Image-2 做了一本全自动生成的女儿绘本](05-AI-Applications/Content-Creation/AI全自动生成儿童绘本/index.md) — `05-AI-Applications` *(2026-04-23)*
+  - [记一次 Stripe 封号：从全线封禁到全部恢复](21-Business/Stripe封号申诉全流程/index.md) — `21-Business` *(2026-04-23)*
   - [做中转站的，90%的人正在被上游收割，自己还不知道。](04-AI-Infrastructure/API-Proxy/中转站防被上游收割/index.md) — `04-AI-Infrastructure` *(2026-04-22)*
   - [2026 企业AI转型全面指南](21-Business/企业AI转型实战指南/index.md) — `21-Business` *(2026-04-21)*
   - [Google Deepmind论文解读：如何给AI Agent 投毒](01-AI-Agents/Architecture/AI Agent六类攻击陷阱/index.md) — `01-AI-Agents` *(2026-04-20)*
@@ -249,10 +255,7 @@
   - [实战教学:从0到1写出一个你自己的Skill](02-AI-Skills-and-Plugins/Skills/从零开始编写Skill教程/index.md) — `02-AI-Skills-and-Plugins` *(2026-04-02)*
   - [How to give Claude Code Superpowers](03-Claude-Code/Tutorials/Superpowers插件使用指南/index.md) — `03-Claude-Code` *(2026-04-02)*
   - [OpenClaw + 指纹浏览器 + 动态 IP：同时养 10+ 个社交账号的自动化防封指南](04-AI-Infrastructure/API-Proxy/多号自动化防封指南/index.md) — `04-AI-Infrastructure` *(2026-04-02)*
-  - [From Hierarchy to Intelligence](21-Business/从层级到智能/index.md) — `21-Business` *(2026-04-02)*
-  - [How to Start Making Real Money With Claude Skills & Agents — Full Playbook.](02-AI-Skills-and-Plugins/Skills/Claude技能变现完整指南/index.md) — `02-AI-Skills-and-Plugins` *(2026-03-31)*
-  - [I Compared gstack, Superpowers, and Compound Engineering. They Solve Three Completely Different Prob](03-Claude-Code/Tutorials/三大插件框架对比分析/index.md) — `03-Claude-Code` *(2026-03-31)*
 
 ---
 
-*Last updated: 2026-04-23 01:05:58*
+*Last updated: 2026-04-28 01:14:55*
