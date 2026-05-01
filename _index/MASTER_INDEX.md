@@ -137,7 +137,7 @@
 
 ## 04-AI-Infrastructure
 
-### API-Proxy (7)
+### API-Proxy (9)
 
 - [多号自动化防封指南](../04-AI-Infrastructure/API-Proxy/多号自动化防封指南/index.md) — 指纹浏览器+动态IP实现10+社交账号的自动化防封方案 `#多号运营` `#指纹浏览器` `#自动化防封`
 - [自建中转零封号](../04-AI-Infrastructure/API-Proxy/自建中转零封号/index.md) — Sub2API自建中转站完整部署流程，两个月零封号实战经验 `#API中转` `#Sub2API` `#防封号`
@@ -146,17 +146,20 @@
 - [中转站防被上游收割](../04-AI-Infrastructure/API-Proxy/中转站防被上游收割/index.md) — 揭露Token质量分层、计费陷阱与消耗倍率黑操作，中转站运营者必读防坑指南 `#API中转` `#Token质量` `#消耗倍率`
 - [API中转站行业深度拆解](../04-AI-Infrastructure/API-Proxy/API中转站行业深度拆解/index.md) — 全面剖析Token进口商业模式的三层盈利结构、用户风险、法律边界与未来趋势 `#API中转站` `#Token进口` `#行业分析`
 - [Claude中转号行业内幕](../04-AI-Infrastructure/API-Proxy/Claude中转号行业内幕/index.md) — 拆解Claude中转渠道三大类型：官转套餐、逆向池子、官方API的上游结构与定价逻辑 `#API中转` `#行业分析` `#Claude`
+- [AI中转站实测对比](../04-AI-Infrastructure/API-Proxy/AI中转站实测对比/index.md) — 实测三家中转站：AI奶爸稳定无坑、三海DAPI低至1.3折、TokenNav收录47家可筛选 `#API中转` `#中转站测评` `#Claude`
+- [ClaudeIP纯净度检测工具](../04-AI-Infrastructure/API-Proxy/ClaudeIP纯净度检测工具/index.md) — 汇总五款Claude IP风险检测工具，作者实测同一IP结果差异极大，建议图一乐 `#Claude` `#IP检测` `#防封号`
 
-### Optimization (2)
+### Optimization (3)
 
 - [OpenClaw-API聚合工具大全](../04-AI-Infrastructure/Optimization/OpenClaw-API聚合工具大全/index.md) — 汇总十余个开源LLM API聚合与中转项目，涵盖多平台免费接入方案 `#API聚合` `#开源工具` `#免费额度`
 - [QMD搜索与ZenMux省Token](../04-AI-Infrastructure/Optimization/QMD搜索与ZenMux省Token/index.md) — QMD本地语义检索替代全量上下文，配合ZenMux订阅实现20倍Token节省 `#QMD` `#Token优化` `#ZenMux`
+- [Token比价工具导航](../04-AI-Infrastructure/Optimization/Token比价工具导航/index.md) — 分享tokennav.cc与aibijia.org两款Token中转站比价平台及其他实用资源网站 `#Token比价` `#API中转` `#资源导航`
 
 ---
 
 ## 05-AI-Applications
 
-### Content-Creation (11)
+### Content-Creation (12)
 
 - [Obsidian美化设置指南](../05-AI-Applications/Content-Creation/Obsidian美化设置指南/index.md) — Obsidian主题美化和插件配置的完整指南 `#Obsidian` `#主题美化`
 - [NotebookLM课程体系创建](../05-AI-Applications/Content-Creation/NotebookLM课程体系创建/index.md) — 用NotebookLM从零创建完整课程体系的方法 `#NotebookLM` `#课程设计`
@@ -169,6 +172,7 @@
 - [中推圈AI变现五路径](../05-AI-Applications/Content-Creation/中推圈AI变现五路径/index.md) — 2026年X中文社区五大躺赚变现路径：API代理、网盘拉新、订阅打赏、广告分成、卖服务 `#AI变现` `#X平台` `#内容创作`
 - [AI副业变现五项目指南](../05-AI-Applications/Content-Creation/AI副业变现五项目指南/index.md) — 从零到变现的五个AI副业项目：AI壁纸、AI短剧、数字人直播、AI短视频、AI写作含详细执行步骤 `#AI变现` `#副业` `#内容创作`
 - [AI全自动生成儿童绘本](../05-AI-Applications/Content-Creation/AI全自动生成儿童绘本/index.md) — 用CREAO搭建四节点Agent流水线，结合GPT-Image-2实现输入书名自动产出家庭个性绘本PDF `#AI内容创作` `#自动化工作流` `#儿童绘本`
+- [极简插画提示词](../05-AI-Applications/Content-Creation/极简插画提示词/index.md) — 极简线条+局部色彩点缀的AI插画提示词，中英双版本，现代杂志编辑风格 `#AI绘图` `#提示词` `#极简插画`
 
 ### Research (5)
 

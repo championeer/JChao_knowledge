@@ -11,14 +11,14 @@
 | 01-AI-Agents | 34 | 0 | 0 | **34** |
 | 02-AI-Skills-and-Plugins | 24 | 0 | 0 | **24** |
 | 03-Claude-Code | 26 | 0 | 0 | **26** |
-| 04-AI-Infrastructure | 9 | 0 | 0 | **9** |
-| 05-AI-Applications | 19 | 0 | 0 | **19** |
+| 04-AI-Infrastructure | 12 | 0 | 0 | **12** |
+| 05-AI-Applications | 20 | 0 | 0 | **20** |
 | 06-LLM-Foundations | 6 | 0 | 0 | **6** |
 | 10-Thinking-Models | 5 | 0 | 0 | **5** |
 | 20-Investment | 22 | 0 | 0 | **22** |
 | 21-Business | 7 | 0 | 0 | **7** |
 | 22-Political-Economy | 1 | 0 | 0 | **1** |
-| **Total** | **153** | **0** | **0** | **153** |
+| **Total** | **157** | **0** | **0** | **157** |
 
 
 ---
@@ -118,9 +118,11 @@
   - [践行一人公司，用 4 文件 4 命令管理 Claude Code 全程开发](03-Claude-Code/Tutorials/四文件四命令极简工作流/index.md)
   - [I stole Anthropic's internal cheat code for getting perfect Claude outputs on the first try](03-Claude-Code/Tutorials/规划代理完美输出秘诀/index.md)
 
-### 04-AI-Infrastructure (9)
+### 04-AI-Infrastructure (12)
 
+  - [Post by @Yuanshan0626 on X](04-AI-Infrastructure/API-Proxy/AI中转站实测对比/index.md)
   - [API中转站行业深度拆解](04-AI-Infrastructure/API-Proxy/API中转站行业深度拆解/index.md)
+  - [Post by @Lonely__MH on X](04-AI-Infrastructure/API-Proxy/ClaudeIP纯净度检测工具/index.md)
   - [科普下中转号里的行业内幕](04-AI-Infrastructure/API-Proxy/Claude中转号行业内幕/index.md)
   - [sub2api 部署指南（小白版）](04-AI-Infrastructure/API-Proxy/sub2api部署指南/index.md)
   - [做中转站的，90%的人正在被上游收割，自己还不知道。](04-AI-Infrastructure/API-Proxy/中转站防被上游收割/index.md)
@@ -129,8 +131,9 @@
   - [又被封号了？自建中转两个月0封，10分钟搞定](04-AI-Infrastructure/API-Proxy/自建中转零封号/index.md)
   - [免费养虾 openclaw API 聚合工具大全](04-AI-Infrastructure/Optimization/OpenClaw-API聚合工具大全/index.md)
   - [OpenClaw-QMD本地语义搜索+ZenMux节省20倍Token消耗](04-AI-Infrastructure/Optimization/QMD搜索与ZenMux省Token/index.md)
+  - [Post by @Zh_Crypto517 on X](04-AI-Infrastructure/Optimization/Token比价工具导航/index.md)
 
-### 05-AI-Applications (19)
+### 05-AI-Applications (20)
 
   - [不要死磕完美！聊聊我利用 AI 工具优化网站的实战心得](05-AI-Applications/Content-Creation/AI优化网站实战心得/index.md)
   - [我用 CREAO × GPT-Image-2 做了一本全自动生成的女儿绘本](05-AI-Applications/Content-Creation/AI全自动生成儿童绘本/index.md)
@@ -143,6 +146,7 @@
   - [龙虾4兄弟的AI写作实战](05-AI-Applications/Content-Creation/OpenClaw四兄弟写作实战/index.md)
   - [手把手教会你用小龙虾自动收集全网资讯整理发公众号](05-AI-Applications/Content-Creation/OpenClaw自动采集发公众号/index.md)
   - [2026中推5大躺赚路径！新手0成本上手变现5位数，原理+案例合集一次看完](05-AI-Applications/Content-Creation/中推圈AI变现五路径/index.md)
+  - [Post by @dotey on X](05-AI-Applications/Content-Creation/极简插画提示词/index.md)
   - [一个免费数据库让你的龙虾成为精简版“彭博终端”](05-AI-Applications/Finance-Tools/OpenClaw精简版彭博终端/index.md)
   - [OpenClaw A股量化投研：必备实战Skill一键安装+量化养虾安全铁律](05-AI-Applications/Finance-Tools/OpenClaw量化投研安全铁律/index.md)
   - [金融行业必装的 10 大 OpenClaw Skills](05-AI-Applications/Finance-Tools/金融行业十大Skills/index.md)
@@ -235,6 +239,10 @@
 
 ## Recent Entries
 
+  - [Post by @Yuanshan0626 on X](04-AI-Infrastructure/API-Proxy/AI中转站实测对比/index.md) — `04-AI-Infrastructure` *(2026-04-30)*
+  - [Post by @Lonely__MH on X](04-AI-Infrastructure/API-Proxy/ClaudeIP纯净度检测工具/index.md) — `04-AI-Infrastructure` *(2026-04-30)*
+  - [Post by @Zh_Crypto517 on X](04-AI-Infrastructure/Optimization/Token比价工具导航/index.md) — `04-AI-Infrastructure` *(2026-04-30)*
+  - [Post by @dotey on X](05-AI-Applications/Content-Creation/极简插画提示词/index.md) — `05-AI-Applications` *(2026-04-30)*
   - [科普下中转号里的行业内幕](04-AI-Infrastructure/API-Proxy/Claude中转号行业内幕/index.md) — `04-AI-Infrastructure` *(2026-04-23)*
   - [我用 CREAO × GPT-Image-2 做了一本全自动生成的女儿绘本](05-AI-Applications/Content-Creation/AI全自动生成儿童绘本/index.md) — `05-AI-Applications` *(2026-04-23)*
   - [记一次 Stripe 封号：从全线封禁到全部恢复](21-Business/Stripe封号申诉全流程/index.md) — `21-Business` *(2026-04-23)*
@@ -251,11 +259,7 @@
   - [一张 U 卡，搞定所有海外订阅支付](21-Business/U卡搞定海外AI订阅/index.md) — `21-Business` *(2026-04-04)*
   - [LLM Knowledge Bases](06-LLM-Foundations/LLM知识库构建/index.md) — `06-LLM-Foundations` *(2026-04-03)*
   - [Google's 20-year secret is now available to every enterprise](21-Business/决策追踪重塑企业软件/index.md) — `21-Business` *(2026-04-03)*
-  - [20 Powerful Agentic-Skills for Claude, ChatGPT & Gemini.](02-AI-Skills-and-Plugins/Skills/二十个AI实用技能合集/index.md) — `02-AI-Skills-and-Plugins` *(2026-04-02)*
-  - [实战教学:从0到1写出一个你自己的Skill](02-AI-Skills-and-Plugins/Skills/从零开始编写Skill教程/index.md) — `02-AI-Skills-and-Plugins` *(2026-04-02)*
-  - [How to give Claude Code Superpowers](03-Claude-Code/Tutorials/Superpowers插件使用指南/index.md) — `03-Claude-Code` *(2026-04-02)*
-  - [OpenClaw + 指纹浏览器 + 动态 IP：同时养 10+ 个社交账号的自动化防封指南](04-AI-Infrastructure/API-Proxy/多号自动化防封指南/index.md) — `04-AI-Infrastructure` *(2026-04-02)*
 
 ---
 
-*Last updated: 2026-04-28 01:14:55*
+*Last updated: 2026-05-01 01:24:17*

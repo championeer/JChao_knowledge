@@ -25,7 +25,7 @@ tags:
 > 
 > PROMPT:
 > 
-> “Minimal illustration of \[SUBJECT/OBJECT\], clean thin lines with selective vibrant color accents, lots of negative space, refined composition, modern editorial style, elegant and simple.”
+> "Minimal illustration of \[SUBJECT/OBJECT\], clean thin lines with selective vibrant color accents, lots of negative space, refined composition, modern editorial style, elegant and simple."
 > 
 > ![Image](https://pbs.twimg.com/media/HHH3cR5XMAAKvZl?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HHDu_IMasAAEqxW?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HHDu_IlbkAAQme4?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HHDu_JVaAAAED-4?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HHDu_LMaoAEXFS6?format=jpg&name=large)
 
