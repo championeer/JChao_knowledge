@@ -11,14 +11,14 @@
 | 01-AI-Agents | 34 | 0 | 0 | **34** |
 | 02-AI-Skills-and-Plugins | 24 | 0 | 0 | **24** |
 | 03-Claude-Code | 26 | 0 | 0 | **26** |
-| 04-AI-Infrastructure | 12 | 0 | 0 | **12** |
+| 04-AI-Infrastructure | 13 | 0 | 0 | **13** |
 | 05-AI-Applications | 20 | 0 | 0 | **20** |
 | 06-LLM-Foundations | 6 | 0 | 0 | **6** |
 | 10-Thinking-Models | 5 | 0 | 0 | **5** |
 | 20-Investment | 22 | 0 | 0 | **22** |
 | 21-Business | 7 | 0 | 0 | **7** |
 | 22-Political-Economy | 1 | 0 | 0 | **1** |
-| **Total** | **157** | **0** | **0** | **157** |
+| **Total** | **158** | **0** | **0** | **158** |
 
 
 ---
@@ -118,9 +118,10 @@
   - [践行一人公司，用 4 文件 4 命令管理 Claude Code 全程开发](03-Claude-Code/Tutorials/四文件四命令极简工作流/index.md)
   - [I stole Anthropic's internal cheat code for getting perfect Claude outputs on the first try](03-Claude-Code/Tutorials/规划代理完美输出秘诀/index.md)
 
-### 04-AI-Infrastructure (12)
+### 04-AI-Infrastructure (13)
 
   - [Post by @Yuanshan0626 on X](04-AI-Infrastructure/API-Proxy/AI中转站实测对比/index.md)
+  - [Post by @Jason23818126 on X](04-AI-Infrastructure/API-Proxy/AI中转站精选合集/index.md)
   - [API中转站行业深度拆解](04-AI-Infrastructure/API-Proxy/API中转站行业深度拆解/index.md)
   - [Post by @Lonely__MH on X](04-AI-Infrastructure/API-Proxy/ClaudeIP纯净度检测工具/index.md)
   - [科普下中转号里的行业内幕](04-AI-Infrastructure/API-Proxy/Claude中转号行业内幕/index.md)
@@ -239,6 +240,7 @@
 
 ## Recent Entries
 
+  - [Post by @Jason23818126 on X](04-AI-Infrastructure/API-Proxy/AI中转站精选合集/index.md) — `04-AI-Infrastructure` *(2026-05-01)*
   - [Post by @Yuanshan0626 on X](04-AI-Infrastructure/API-Proxy/AI中转站实测对比/index.md) — `04-AI-Infrastructure` *(2026-04-30)*
   - [Post by @Lonely__MH on X](04-AI-Infrastructure/API-Proxy/ClaudeIP纯净度检测工具/index.md) — `04-AI-Infrastructure` *(2026-04-30)*
   - [Post by @Zh_Crypto517 on X](04-AI-Infrastructure/Optimization/Token比价工具导航/index.md) — `04-AI-Infrastructure` *(2026-04-30)*
@@ -258,8 +260,7 @@
   - [Schlep Blindness](10-Thinking-Models/创业视盲与苦工/index.md) — `10-Thinking-Models` *(2026-04-09)*
   - [一张 U 卡，搞定所有海外订阅支付](21-Business/U卡搞定海外AI订阅/index.md) — `21-Business` *(2026-04-04)*
   - [LLM Knowledge Bases](06-LLM-Foundations/LLM知识库构建/index.md) — `06-LLM-Foundations` *(2026-04-03)*
-  - [Google's 20-year secret is now available to every enterprise](21-Business/决策追踪重塑企业软件/index.md) — `21-Business` *(2026-04-03)*
 
 ---
 
-*Last updated: 2026-05-01 01:24:17*
+*Last updated: 2026-05-02 01:06:31*
