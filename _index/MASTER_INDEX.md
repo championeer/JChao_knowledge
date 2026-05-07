@@ -137,7 +137,7 @@
 
 ## 04-AI-Infrastructure
 
-### API-Proxy (10)
+### API-Proxy (12)
 
 - [多号自动化防封指南](../04-AI-Infrastructure/API-Proxy/多号自动化防封指南/index.md) — 指纹浏览器+动态IP实现10+社交账号的自动化防封方案 `#多号运营` `#指纹浏览器` `#自动化防封`
 - [自建中转零封号](../04-AI-Infrastructure/API-Proxy/自建中转零封号/index.md) — Sub2API自建中转站完整部署流程，两个月零封号实战经验 `#API中转` `#Sub2API` `#防封号`
@@ -149,6 +149,8 @@
 - [AI中转站实测对比](../04-AI-Infrastructure/API-Proxy/AI中转站实测对比/index.md) — 实测三家中转站：AI奶爸稳定无坑、三海DAPI低至1.3折、TokenNav收录47家可筛选 `#API中转` `#中转站测评` `#Claude`
 - [ClaudeIP纯净度检测工具](../04-AI-Infrastructure/API-Proxy/ClaudeIP纯净度检测工具/index.md) — 汇总五款Claude IP风险检测工具，作者实测同一IP结果差异极大，建议图一乐 `#Claude` `#IP检测` `#防封号`
 - [AI中转站精选合集](../04-AI-Infrastructure/API-Proxy/AI中转站精选合集/index.md) — 精选10个相对稳定的AI API中转平台，含模型聚合、编程专用、创意生图等各类型推荐 `#API中转` `#平台推荐`
+- [开源中转站搭建全攻略](../04-AI-Infrastructure/API-Proxy/开源中转站搭建全攻略/index.md) — CN2服务器+sub2api+Cloudflare三件套从零搭建AI API中转站，含完整部署流程与营销推广方法 `#API中转` `#CN2服务器` `#sub2api`
+- [中转站安全检测三工具对比](../04-AI-Infrastructure/API-Proxy/中转站安全检测三工具对比/index.md) — 深度对比api-relay-audit、hvoy.ai、cctest.ai三款中转站安全审计工具的方法论、检测能力与适用场景 `#API中转站` `#安全审计` `#工具对比`
 
 ### Optimization (3)
 

@@ -11,14 +11,14 @@
 | 01-AI-Agents | 34 | 0 | 0 | **34** |
 | 02-AI-Skills-and-Plugins | 24 | 0 | 0 | **24** |
 | 03-Claude-Code | 26 | 0 | 0 | **26** |
-| 04-AI-Infrastructure | 13 | 0 | 0 | **13** |
+| 04-AI-Infrastructure | 15 | 0 | 0 | **15** |
 | 05-AI-Applications | 20 | 0 | 0 | **20** |
 | 06-LLM-Foundations | 6 | 0 | 0 | **6** |
 | 10-Thinking-Models | 5 | 0 | 0 | **5** |
 | 20-Investment | 22 | 0 | 0 | **22** |
 | 21-Business | 7 | 0 | 0 | **7** |
 | 22-Political-Economy | 1 | 0 | 0 | **1** |
-| **Total** | **158** | **0** | **0** | **158** |
+| **Total** | **160** | **0** | **0** | **160** |
 
 
 ---
@@ -118,7 +118,7 @@
   - [践行一人公司，用 4 文件 4 命令管理 Claude Code 全程开发](03-Claude-Code/Tutorials/四文件四命令极简工作流/index.md)
   - [I stole Anthropic's internal cheat code for getting perfect Claude outputs on the first try](03-Claude-Code/Tutorials/规划代理完美输出秘诀/index.md)
 
-### 04-AI-Infrastructure (13)
+### 04-AI-Infrastructure (15)
 
   - [Post by @Yuanshan0626 on X](04-AI-Infrastructure/API-Proxy/AI中转站实测对比/index.md)
   - [Post by @Jason23818126 on X](04-AI-Infrastructure/API-Proxy/AI中转站精选合集/index.md)
@@ -126,9 +126,11 @@
   - [Post by @Lonely__MH on X](04-AI-Infrastructure/API-Proxy/ClaudeIP纯净度检测工具/index.md)
   - [科普下中转号里的行业内幕](04-AI-Infrastructure/API-Proxy/Claude中转号行业内幕/index.md)
   - [sub2api 部署指南（小白版）](04-AI-Infrastructure/API-Proxy/sub2api部署指南/index.md)
+  - [中转站安全检测工具终极指南](04-AI-Infrastructure/API-Proxy/中转站安全检测三工具对比/index.md)
   - [做中转站的，90%的人正在被上游收割，自己还不知道。](04-AI-Infrastructure/API-Proxy/中转站防被上游收割/index.md)
   - [使用各种无良中转后，我掀桌了！一篇教你从0搭建中转站！](04-AI-Infrastructure/API-Proxy/从零搭建API中转站/index.md)
   - [OpenClaw + 指纹浏览器 + 动态 IP：同时养 10+ 个社交账号的自动化防封指南](04-AI-Infrastructure/API-Proxy/多号自动化防封指南/index.md)
+  - [Post by @sukie234 on X](04-AI-Infrastructure/API-Proxy/开源中转站搭建全攻略/index.md)
   - [又被封号了？自建中转两个月0封，10分钟搞定](04-AI-Infrastructure/API-Proxy/自建中转零封号/index.md)
   - [免费养虾 openclaw API 聚合工具大全](04-AI-Infrastructure/Optimization/OpenClaw-API聚合工具大全/index.md)
   - [OpenClaw-QMD本地语义搜索+ZenMux节省20倍Token消耗](04-AI-Infrastructure/Optimization/QMD搜索与ZenMux省Token/index.md)
@@ -240,6 +242,8 @@
 
 ## Recent Entries
 
+  - [中转站安全检测工具终极指南](04-AI-Infrastructure/API-Proxy/中转站安全检测三工具对比/index.md) — `04-AI-Infrastructure` *(2026-05-07)*
+  - [Post by @sukie234 on X](04-AI-Infrastructure/API-Proxy/开源中转站搭建全攻略/index.md) — `04-AI-Infrastructure` *(2026-05-07)*
   - [Post by @Jason23818126 on X](04-AI-Infrastructure/API-Proxy/AI中转站精选合集/index.md) — `04-AI-Infrastructure` *(2026-05-01)*
   - [Post by @Yuanshan0626 on X](04-AI-Infrastructure/API-Proxy/AI中转站实测对比/index.md) — `04-AI-Infrastructure` *(2026-04-30)*
   - [Post by @Lonely__MH on X](04-AI-Infrastructure/API-Proxy/ClaudeIP纯净度检测工具/index.md) — `04-AI-Infrastructure` *(2026-04-30)*
@@ -258,9 +262,7 @@
   - [对话大疆汪滔：求真理、得自由、活成故事](21-Business/大疆汪滔创业二十年/index.md) — `21-Business` *(2026-04-12)*
   - [你的 Agent 有两个老板，你只是其中一个](01-AI-Agents/Architecture/Agent安全与身份信任/index.md) — `01-AI-Agents` *(2026-04-09)*
   - [Schlep Blindness](10-Thinking-Models/创业视盲与苦工/index.md) — `10-Thinking-Models` *(2026-04-09)*
-  - [一张 U 卡，搞定所有海外订阅支付](21-Business/U卡搞定海外AI订阅/index.md) — `21-Business` *(2026-04-04)*
-  - [LLM Knowledge Bases](06-LLM-Foundations/LLM知识库构建/index.md) — `06-LLM-Foundations` *(2026-04-03)*
 
 ---
 
-*Last updated: 2026-05-02 01:06:31*
+*Last updated: 2026-05-07 01:05:44*
