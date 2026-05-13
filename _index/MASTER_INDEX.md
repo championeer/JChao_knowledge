@@ -8,7 +8,7 @@
 
 ## 01-AI-Agents
 
-### Architecture (11)
+### Architecture (12)
 
 - [Agent信息经济学](../01-AI-Agents/Architecture/Agent信息经济学/index.md) — 用Epiplexity理论解释为何Agent的context质量比数量更重要 `#信息论` `#Context工程` `#Epiplexity`
 - [Agent原理架构与工程实践](../01-AI-Agents/Architecture/Agent原理架构与工程实践/index.md) — Agent控制流、上下文工程、工具设计、记忆与多Agent架构的系统梳理 `#agent-architecture` `#context-engineering` `#tool-design`
@@ -21,6 +21,7 @@
 - [文件系统即数据库](../01-AI-Agents/Architecture/文件系统即数据库/index.md) — 用80+文件构建Personal Brain OS，实现渐进式披露的三层信息架构 `#PersonalOS` `#渐进式披露` `#文件架构`
 - [Agent安全与身份信任](../01-AI-Agents/Architecture/Agent安全与身份信任/index.md) — 提示注入攻击让Agent服从双主人，ATP协议用密码学为每条指令绑定可验证身份 `#Agent安全` `#提示注入` `#身份信任`
 - [AI Agent六类攻击陷阱](../01-AI-Agents/Architecture/AI%20Agent六类攻击陷阱/index.md) — Google DeepMind论文系统梳理内容注入、语义操控、记忆投毒等六类AI Agent攻击框架与防御方案 `#AI安全` `#Agent安全` `#攻击防御`
+- [复利个人AI系统构建](../01-AI-Agents/Architecture/复利个人AI系统构建/index.md) — YC CEO GarryTan实践分享：fat skills+thin harness+10万页大脑，Skillify元技能实现技能创造技能的复利个人AI架构 `#个人AI系统` `#知识库` `#技能复利`
 
 ### Memory (8)
 
@@ -162,7 +163,7 @@
 
 ## 05-AI-Applications
 
-### Content-Creation (12)
+### Content-Creation (13)
 
 - [Obsidian美化设置指南](../05-AI-Applications/Content-Creation/Obsidian美化设置指南/index.md) — Obsidian主题美化和插件配置的完整指南 `#Obsidian` `#主题美化`
 - [NotebookLM课程体系创建](../05-AI-Applications/Content-Creation/NotebookLM课程体系创建/index.md) — 用NotebookLM从零创建完整课程体系的方法 `#NotebookLM` `#课程设计`
@@ -176,6 +177,7 @@
 - [AI副业变现五项目指南](../05-AI-Applications/Content-Creation/AI副业变现五项目指南/index.md) — 从零到变现的五个AI副业项目：AI壁纸、AI短剧、数字人直播、AI短视频、AI写作含详细执行步骤 `#AI变现` `#副业` `#内容创作`
 - [AI全自动生成儿童绘本](../05-AI-Applications/Content-Creation/AI全自动生成儿童绘本/index.md) — 用CREAO搭建四节点Agent流水线，结合GPT-Image-2实现输入书名自动产出家庭个性绘本PDF `#AI内容创作` `#自动化工作流` `#儿童绘本`
 - [极简插画提示词](../05-AI-Applications/Content-Creation/极简插画提示词/index.md) — 极简线条+局部色彩点缀的AI插画提示词，中英双版本，现代杂志编辑风格 `#AI绘图` `#提示词` `#极简插画`
+- [AI全自动视频制作教程](../05-AI-Applications/Content-Creation/AI全自动视频制作教程/index.md) — Codex+Remotion构建全自动视频生成工作流，含目录结构、提示词模板、核心API与抽帧质检技巧 `#AI视频` `#Remotion` `#Codex`
 
 ### Research (5)
 
