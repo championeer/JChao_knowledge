@@ -8,7 +8,7 @@
 
 ## 01-AI-Agents
 
-### Architecture (12)
+### Architecture (13)
 
 - [Agent信息经济学](../01-AI-Agents/Architecture/Agent信息经济学/index.md) — 用Epiplexity理论解释为何Agent的context质量比数量更重要 `#信息论` `#Context工程` `#Epiplexity`
 - [Agent原理架构与工程实践](../01-AI-Agents/Architecture/Agent原理架构与工程实践/index.md) — Agent控制流、上下文工程、工具设计、记忆与多Agent架构的系统梳理 `#agent-architecture` `#context-engineering` `#tool-design`
@@ -22,6 +22,7 @@
 - [Agent安全与身份信任](../01-AI-Agents/Architecture/Agent安全与身份信任/index.md) — 提示注入攻击让Agent服从双主人，ATP协议用密码学为每条指令绑定可验证身份 `#Agent安全` `#提示注入` `#身份信任`
 - [AI Agent六类攻击陷阱](../01-AI-Agents/Architecture/AI%20Agent六类攻击陷阱/index.md) — Google DeepMind论文系统梳理内容注入、语义操控、记忆投毒等六类AI Agent攻击框架与防御方案 `#AI安全` `#Agent安全` `#攻击防御`
 - [复利个人AI系统构建](../01-AI-Agents/Architecture/复利个人AI系统构建/index.md) — YC CEO GarryTan实践分享：fat skills+thin harness+10万页大脑，Skillify元技能实现技能创造技能的复利个人AI架构 `#个人AI系统` `#知识库` `#技能复利`
+- [企业客服Agent架构解析](../01-AI-Agents/Architecture/企业客服Agent架构解析/index.md) — 拆解OpenAI航空客服Demo五层架构：路由、工具权限硬约束、结构化上下文、独立Guardrail与可观测性 `#企业Agent` `#多Agent架构` `#Guardrails`
 
 ### Memory (8)
 
