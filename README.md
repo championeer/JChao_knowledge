@@ -7,8 +7,8 @@
 ## Overview
 
 | Category | Articles | Books | Notes | Total |
-|----------|----------|-------|-------|-------|
-| 01-AI-Agents | 35 | 0 | 0 | **35** |
+|----------|----------|-------|-------|-----------|
+| 01-AI-Agents | 36 | 0 | 0 | **36** |
 | 02-AI-Skills-and-Plugins | 24 | 0 | 0 | **24** |
 | 03-Claude-Code | 26 | 0 | 0 | **26** |
 | 04-AI-Infrastructure | 15 | 0 | 0 | **15** |
@@ -18,24 +18,25 @@
 | 20-Investment | 22 | 0 | 0 | **22** |
 | 21-Business | 7 | 0 | 0 | **7** |
 | 22-Political-Economy | 1 | 0 | 0 | **1** |
-| **Total** | **162** | **0** | **0** | **162** |
+| **Total** | **163** | **0** | **0** | **163** |
 
 
 ---
 
 ## AI & Technology
 
-### 01-AI-Agents (35)
+### 01-AI-Agents (36)
 
   - [Google Deepmind论文解读：如何给AI Agent 投毒](01-AI-Agents/Architecture/AI Agent六类攻击陷阱/index.md)
   - [Agent 的信息经济学：少即是多的理论基础](01-AI-Agents/Architecture/Agent信息经济学/index.md)
   - [你不知道的 Agent：原理、架构与工程实践](01-AI-Agents/Architecture/Agent原理架构与工程实践/index.md)
   - [你的 Agent 有两个老板，你只是其中一个](01-AI-Agents/Architecture/Agent安全与身份信任/index.md)
-  - [OpenClaw System Prompt 的“九层塔”：一个 AI Agent 的完整人格是怎么组装出来的？](01-AI-Agents/Architecture/SystemPrompt九层塔解析/index.md)
-  - [呂心沥血肝出来的，奉献给你们的龙虾了：OpenClaw Agent System Prompt 架构详解（9层）](01-AI-Agents/Architecture/SystemPrompt九层架构详解/index.md)
+  - [OpenClaw System Prompt 的"九层塔"：一个 AI Agent 的完整人格是怎么组装出来的？](01-AI-Agents/Architecture/SystemPrompt九层塔解析/index.md)
+  - [呕心沥血肝出来的，奉献给你们的龙虾了：OpenClaw Agent System Prompt 架构详解（9层）](01-AI-Agents/Architecture/SystemPrompt九层架构详解/index.md)
   - [深度解析：pi-ai 与 pi-agent-core](01-AI-Agents/Architecture/pi-ai与pi-agent-core解析/index.md)
   - [一万字提示词给你的AI造一个数字灵魂](01-AI-Agents/Architecture/万字提示词造数字灵魂/index.md)
-  - [龙虾教程｜用五层信息价值链，打造“高信噪比”主动式个人情报系统](01-AI-Agents/Architecture/五层信息价值链情报系统/index.md)
+  - [龙虾教程｜用五层信息价值链，打造"高信噪比"主动式个人情报系统](01-AI-Agents/Architecture/五层信息价值链情报系统/index.md)
+  - [从 OpenAI 客服 Demo 看企业 Agent：关键不是会聊天，而是会办事](01-AI-Agents/Architecture/企业客服Agent架构解析/index.md)
   - [Your Company is a Filesystem](01-AI-Agents/Architecture/公司即文件系统/index.md)
   - [Meta-Meta-Prompting: The Secret to Making AI Agents Work](01-AI-Agents/Architecture/复利个人AI系统构建/index.md)
   - [The File System Is the New Database How I Built a Personal OS for AI Agents文件系统是新的数据库：我是如何为人工智能代理构建个人操作系统的](01-AI-Agents/Architecture/文件系统即数据库/index.md)
@@ -54,13 +55,13 @@
   - [OpenClaw-RL_ Train Any Agent Simply by Talking](01-AI-Agents/Training/OpenClaw对话式RL训练/index.md)
   - [OpenClaw RL, explained clearlyOpenClaw 强化学习，解释得很清楚](01-AI-Agents/Training/OpenClaw强化学习详解/index.md)
   - [100小时OpenClaw使用经验：你的24小时AI员工完整指南](01-AI-Agents/Workflows/100小时OpenClaw使用经验/index.md)
-  - [凌晙28点，我的龙虾发来了一条“死刑通知”](01-AI-Agents/Workflows/AI-Agent失忆与记忆管理/index.md)
+  - [凌晨3点，我的龙虾发来了一条"死刑通知"](01-AI-Agents/Workflows/AI-Agent失忆与记忆管理/index.md)
   - [Agent 工作交接利器：继任者 Prompt](01-AI-Agents/Workflows/Agent工作交接继任Prompt/index.md)
   - [Karpathy's 10 Actionable Insights for Working with AI Agents](01-AI-Agents/Workflows/Karpathy-AI-Agent协作十则/index.md)
   - [OpenClaw 从中级到高级完整教程](01-AI-Agents/Workflows/OpenClaw中级到高级教程/index.md)
   - [OpenClaw 从入门到精通指南](01-AI-Agents/Workflows/OpenClaw从入门到精通/index.md)
-  - [OpenClaw 能干什么？一个重度用户的10个真实用例拆解](01-AI-Agents/Workflows/OpenClaw十大真实用例/index.md)
-  - [跻OpenClaw学习如何给Agent加定时任务](01-AI-Agents/Workflows/OpenClaw定时任务教程/index.md)
+  - [OpenClaw 能干什么？一个重度用户的 10 个真实用例拆解](01-AI-Agents/Workflows/OpenClaw十大真实用例/index.md)
+  - [跟OpenClaw学习如何给Agent加定时任务](01-AI-Agents/Workflows/OpenClaw定时任务教程/index.md)
   - [年薪150万的工作，我用500美金的AI完成：个人业务Agent升级指南](01-AI-Agents/Workflows/个人业务Agent升级指南/index.md)
 
 ### 02-AI-Skills-and-Plugins (24)
@@ -87,7 +88,7 @@
   - [SKILLS 开发与商业变现指南：下一个独立开发者的金矿](02-AI-Skills-and-Plugins/Skills/Skill开发与商业变现指南/index.md)
   - [扫了1000+个仓库，测了200+个技能，终于找到这90个真正能用的AI神器！](02-AI-Skills-and-Plugins/Skills/九十个实用AI工具精选/index.md)
   - [20 Powerful Agentic-Skills for Claude, ChatGPT & Gemini.](02-AI-Skills-and-Plugins/Skills/二十个AI实用技能合集/index.md)
-  - [龙虾从“会聊天”到“会干活”，只差一个 Skills](02-AI-Skills-and-Plugins/Skills/从聊天到干活只差一个Skills/index.md)
+  - [龙虾从"会聊天"到"会干活"，只差一个 Skills](02-AI-Skills-and-Plugins/Skills/从聊天到干活只差一个Skills/index.md)
   - [实战教学:从0到1写出一个你自己的Skill](02-AI-Skills-and-Plugins/Skills/从零开始编写Skill教程/index.md)
 
 ### 03-Claude-Code (26)
@@ -129,20 +130,20 @@
   - [sub2api 部署指南（小白版）](04-AI-Infrastructure/API-Proxy/sub2api部署指南/index.md)
   - [中转站安全检测工具终极指南](04-AI-Infrastructure/API-Proxy/中转站安全检测三工具对比/index.md)
   - [做中转站的，90%的人正在被上游收割，自己还不知道。](04-AI-Infrastructure/API-Proxy/中转站防被上游收割/index.md)
-  - [使用各种无良中转后，我掶桌了！一篇教你从0搭建中转站！](04-AI-Infrastructure/API-Proxy/从零搭建API中转站/index.md)
-  - [OpenClaw + 指纹浏览器 + 动态 IP：同时典10+ 个社交账号的自动化防封指南](04-AI-Infrastructure/API-Proxy/多号自动化防封指南/index.md)
+  - [使用各种无良中转后，我掀桌了！一篇教你从0搭建中转站！](04-AI-Infrastructure/API-Proxy/从零搭建API中转站/index.md)
+  - [OpenClaw + 指纹浏览器 + 动态 IP：同时养 10+ 个社交账号的自动化防封指南](04-AI-Infrastructure/API-Proxy/多号自动化防封指南/index.md)
   - [Post by @sukie234 on X](04-AI-Infrastructure/API-Proxy/开源中转站搭建全攻略/index.md)
-  - [又被封号了？自建中转两个月10封，10分钟搞定](04-AI-Infrastructure/API-Proxy/自建中转零封号/index.md)
+  - [又被封号了？自建中转两个月0封，10分钟搞定](04-AI-Infrastructure/API-Proxy/自建中转零封号/index.md)
   - [免费养虾 openclaw API 聚合工具大全](04-AI-Infrastructure/Optimization/OpenClaw-API聚合工具大全/index.md)
-  - [OpenClaw-QMD本地语义搜索+ZenMux节省十倍Token消耗](04-AI-Infrastructure/Optimization/QMD搜索与ZenMux省Token/index.md)
+  - [OpenClaw-QMD本地语义搜索+ZenMux节省20倍Token消耗](04-AI-Infrastructure/Optimization/QMD搜索与ZenMux省Token/index.md)
   - [Post by @Zh_Crypto517 on X](04-AI-Infrastructure/Optimization/Token比价工具导航/index.md)
 
 ### 05-AI-Applications (21)
 
-  - [不要死磣完美！聊聊我利用 AI 工具优化网站的实战心得](05-AI-Applications/Content-Creation/AI优化网站实战心得/index.md)
+  - [不要死磕完美！聊聊我利用 AI 工具优化网站的实战心得](05-AI-Applications/Content-Creation/AI优化网站实战心得/index.md)
   - [我用 CREAO × GPT-Image-2 做了一本全自动生成的女儿绘本](05-AI-Applications/Content-Creation/AI全自动生成儿童绘本/index.md)
   - [AI全自动视频工作流揭秘：Codex + Remotion零基础保姆级教程](05-AI-Applications/Content-Creation/AI全自动视频制作教程/index.md)
-  - [2026年AI副业变现超详细实操指南——共5个项目从0-1，让AI选择最适合你的项目并列出tto-do-list（合计3w+字）](05-AI-Applications/Content-Creation/AI副业变现五项目指南/index.md)
+  - [2026年AI副业变现超详细实操指南——共5个项目从0-1，让AI选择最适合你的项目并列出to-do-list（合计3w+字）](05-AI-Applications/Content-Creation/AI副业变现五项目指南/index.md)
   - [AI生成豪华PPT的几种方案和使用途径](05-AI-Applications/Content-Creation/AI生成PPT方案汇总/index.md)
   - [this turns claude code and google maps into a 7-figure outbound team这使得克劳德代码和谷歌地图变成了一个价值七位数的对外拓展团队。](05-AI-Applications/Content-Creation/Claude代码谷歌地图获客/index.md)
   - [研究+笔记+PPT之神——NotebookLM 快速上手教程](05-AI-Applications/Content-Creation/NotebookLM快速上手/index.md)
@@ -152,11 +153,11 @@
   - [手把手教会你用小龙虾自动收集全网资讯整理发公众号](05-AI-Applications/Content-Creation/OpenClaw自动采集发公众号/index.md)
   - [2026中推5大躺赚路径！新手0成本上手变现5位数，原理+案例合集一次看完](05-AI-Applications/Content-Creation/中推圈AI变现五路径/index.md)
   - [Post by @dotey on X](05-AI-Applications/Content-Creation/极简插画提示词/index.md)
-  - [一个免费数据库让你的龙虾成为精简版“彭博终端”](05-AI-Applications/Finance-Tools/OpenClaw精简版彭博终端/index.md)
+  - [一个免费数据库让你的龙虾成为精简版"彭博终端"](05-AI-Applications/Finance-Tools/OpenClaw精简版彭博终端/index.md)
   - [OpenClaw A股量化投研：必备实战Skill一键安装+量化养虾安全铁律](05-AI-Applications/Finance-Tools/OpenClaw量化投研安全铁律/index.md)
-  - [金融行业必装的10 大 OpenClaw Skills](05-AI-Applications/Finance-Tools/金融行业十大Skills/index.md)
+  - [金融行业必装的 10 大 OpenClaw Skills](05-AI-Applications/Finance-Tools/金融行业十大Skills/index.md)
   - [How to 10x your Claude Skills (using Karpathy's autoresearch method) 如何将你的克劳德技能提升10倍（使用卡帕西的自动研究方法）](05-AI-Applications/Research/AutoResearch优化Claude技能/index.md)
-  - [工具会过时，框架不会——拆解 autoresearch 背后的迭代方法论【通俓易懂版】](05-AI-Applications/Research/AutoResearch迭代方法论/index.md)
+  - [工具会过时，框架不会——拆解 autoresearch 背后的迭代方法论【通俗易懂版】](05-AI-Applications/Research/AutoResearch迭代方法论/index.md)
   - [Using Claude Code While Writing a Research Paper在撰写研究论文时使用 Claude Code](05-AI-Applications/Research/ClaudeCode辅助写论文/index.md)
   - [KARPATHY 的 AUTORESEARCH：当 AI 开始自己做研究](05-AI-Applications/Research/Karpathy的AutoResearch/index.md)
   - [Karpathy's autoresearch QuickstartKarpathy 的自动研究快速入门](05-AI-Applications/Research/Karpathy自动研究入门/index.md)
@@ -168,7 +169,7 @@
   - [LLM Knowledge Bases](06-LLM-Foundations/LLM知识库构建/index.md)
   - [用零错误解决一百万步的 LLM 任务 --- Solving a Million-Step LLM Task with Zero Errors](06-LLM-Foundations/百万步LLM任务零错误/index.md)
   - [Your Notes Are the Moat 你的笔记就是护城河](06-LLM-Foundations/笔记即护城河/index.md)
-  - [Recursive Language Models - what finally gave me the 'aha' moment递归语言模型——最终让我恏然大悟的契机](06-LLM-Foundations/递归语言模型详解/index.md)
+  - [Recursive Language Models - what finally gave me the 'aha' moment递归语言模型——最终让我恍然大悟的契机](06-LLM-Foundations/递归语言模型详解/index.md)
 
 
 ---
@@ -225,7 +226,7 @@
 
 ### 22-Political-Economy (1)
 
-  - [黄仁勋最新访谈，谈及中国芯片算力与Anthropic以及Mythos模型等问题（全文　2.4万字）](22-Political-Economy/黄仁勋谈中美芯片AI竞争/index.md)
+  - [黄仁勋最新访谈，谈及中国芯片算力与Anthropic以及Mythos模型等问题（全文2.4万字）](22-Political-Economy/黄仁勋谈中美芯片AI竞争/index.md)
 
 
 ---
@@ -244,6 +245,7 @@
 
 ## Recent Entries
 
+  - [从 OpenAI 客服 Demo 看企业 Agent：关键不是会聊天，而是会办事](01-AI-Agents/Architecture/企业客服Agent架构解析/index.md) — `01-AI-Agents` *(2026-05-13)*
   - [Meta-Meta-Prompting: The Secret to Making AI Agents Work](01-AI-Agents/Architecture/复利个人AI系统构建/index.md) — `01-AI-Agents` *(2026-05-10)*
   - [AI全自动视频工作流揭秘：Codex + Remotion零基础保姆级教程](05-AI-Applications/Content-Creation/AI全自动视频制作教程/index.md) — `05-AI-Applications` *(2026-05-10)*
   - [中转站安全检测工具终极指南](04-AI-Infrastructure/API-Proxy/中转站安全检测三工具对比/index.md) — `04-AI-Infrastructure` *(2026-05-07)*
@@ -259,12 +261,11 @@
   - [做中转站的，90%的人正在被上游收割，自己还不知道。](04-AI-Infrastructure/API-Proxy/中转站防被上游收割/index.md) — `04-AI-Infrastructure` *(2026-04-22)*
   - [2026 企业AI转型全面指南](21-Business/企业AI转型实战指南/index.md) — `21-Business` *(2026-04-21)*
   - [Google Deepmind论文解读：如何给AI Agent 投毒](01-AI-Agents/Architecture/AI Agent六类攻击陷阱/index.md) — `01-AI-Agents` *(2026-04-20)*
-  - [2026年AI副业变现超详细实操指南——共5个项目从0-1，让AI选择最适合你的项目并列出tto-do-list（合计3w+字）](05-AI-Applications/Content-Creation/AI副业变现五项目指南/index.md) — `05-AI-Applications` *(2026-04-19)*
+  - [2026年AI副业变现超详细实操指南——共5个项目从0-1，让AI选择最适合你的项目并列出to-do-list（合计3w+字）](05-AI-Applications/Content-Creation/AI副业变现五项目指南/index.md) — `05-AI-Applications` *(2026-04-19)*
   - [2026中推5大躺赚路径！新手0成本上手变现5位数，原理+案例合集一次看完](05-AI-Applications/Content-Creation/中推圈AI变现五路径/index.md) — `05-AI-Applications` *(2026-04-19)*
   - [Using Claude Code: Session Management & 1M Context](03-Claude-Code/Tutorials/ClaudeCode会话上下文管理/index.md) — `03-Claude-Code` *(2026-04-16)*
-  - [黄仁勋最新访谈，谈及中国芯片算力与Anthropic以及Mythos模型等问题（全文　2.4万字）](22-Political-Economy/黄仁勋谈中美芯片AI竞争/index.md) — `22-Political-Economy` *(2026-04-16)*
-  - [对话大疆汪滔：求真理、得自由、活成故事](21-Business/大疆汪滔创业二十年/index.md) — `21-Business` *(2026-04-12)*
+  - [黄仁勋最新访谈，谈及中国芯片算力与Anthropic以及Mythos模型等问题（全文2.4万字）](22-Political-Economy/黄仁勋谈中美芯片AI竞争/index.md) — `22-Political-Economy` *(2026-04-16)*
 
 ---
 
-*Last updated: 2026-05-13 01:09:40*
+*Last updated: 2026-05-14 01:11:13*
