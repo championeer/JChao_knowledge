@@ -7,18 +7,18 @@
 ## Overview
 
 | Category | Articles | Books | Notes | Total |
-|----------|----------|-------|-------|-----------|
+|----------|----------|-------|-------|-------|
 | 01-AI-Agents | 36 | 0 | 0 | **36** |
 | 02-AI-Skills-and-Plugins | 24 | 0 | 0 | **24** |
 | 03-Claude-Code | 26 | 0 | 0 | **26** |
-| 04-AI-Infrastructure | 15 | 0 | 0 | **15** |
+| 04-AI-Infrastructure | 16 | 0 | 0 | **16** |
 | 05-AI-Applications | 21 | 0 | 0 | **21** |
 | 06-LLM-Foundations | 6 | 0 | 0 | **6** |
 | 10-Thinking-Models | 5 | 0 | 0 | **5** |
 | 20-Investment | 22 | 0 | 0 | **22** |
 | 21-Business | 7 | 0 | 0 | **7** |
 | 22-Political-Economy | 1 | 0 | 0 | **1** |
-| **Total** | **163** | **0** | **0** | **163** |
+| **Total** | **164** | **0** | **0** | **164** |
 
 
 ---
@@ -104,7 +104,7 @@
   - [这可能最最权威的 Claude code 教程， Claude code 作者发布 13 条指导](03-Claude-Code/Tutorials/ClaudeCode官方十三条指导/index.md)
   - [你不知道的 Claude Code：架构、治理与工程实践](03-Claude-Code/Tutorials/ClaudeCode架构与治理/index.md)
   - [Ultimate Claude Cowork Starter Pack Every Plugin, Skill, and Workflow You Need终极 Claude Cowork 入门包：你需要的所有插件、技能和工作流程](03-Claude-Code/Tutorials/ClaudeCowork入门套件/index.md)
-  - [The Ultimate Beginner's Guide to Claude (March 2026) 克劳德终极新手指南（2026年3月）](03-Claude-Code/Tutorials/Claude新手终极指南2026/index.md)
+  - [The Ultimate Beginner’s Guide to Claude (March 2026) 克劳德终极新手指南（2026年3月）](03-Claude-Code/Tutorials/Claude新手终极指南2026/index.md)
   - [当你正确设置 Claude 后，你再也不想回去用 Chatgpt 了](03-Claude-Code/Tutorials/Claude正确设置全攻略/index.md)
   - [Claude 终极入门指南：100 小时实测，一篇讲透](03-Claude-Code/Tutorials/Claude百小时实测指南/index.md)
   - [Claude Cowork: The Complete Guide (From 0 to 100)Claude Cowork：完整指南（从 0 到 100）](03-Claude-Code/Tutorials/Cowork完整使用指南/index.md)
@@ -120,10 +120,11 @@
   - [践行一人公司，用 4 文件 4 命令管理 Claude Code 全程开发](03-Claude-Code/Tutorials/四文件四命令极简工作流/index.md)
   - [I stole Anthropic's internal cheat code for getting perfect Claude outputs on the first try](03-Claude-Code/Tutorials/规划代理完美输出秘诀/index.md)
 
-### 04-AI-Infrastructure (15)
+### 04-AI-Infrastructure (16)
 
   - [Post by @Yuanshan0626 on X](04-AI-Infrastructure/API-Proxy/AI中转站实测对比/index.md)
   - [Post by @Jason23818126 on X](04-AI-Infrastructure/API-Proxy/AI中转站精选合集/index.md)
+  - [做中转站3天，收益5w+，亏损17w+，曝光中转站套路｜踩坑记录](04-AI-Infrastructure/API-Proxy/AI中转站风险与选购指南/index.md)
   - [API中转站行业深度拆解](04-AI-Infrastructure/API-Proxy/API中转站行业深度拆解/index.md)
   - [Post by @Lonely__MH on X](04-AI-Infrastructure/API-Proxy/ClaudeIP纯净度检测工具/index.md)
   - [科普下中转号里的行业内幕](04-AI-Infrastructure/API-Proxy/Claude中转号行业内幕/index.md)
@@ -153,14 +154,14 @@
   - [手把手教会你用小龙虾自动收集全网资讯整理发公众号](05-AI-Applications/Content-Creation/OpenClaw自动采集发公众号/index.md)
   - [2026中推5大躺赚路径！新手0成本上手变现5位数，原理+案例合集一次看完](05-AI-Applications/Content-Creation/中推圈AI变现五路径/index.md)
   - [Post by @dotey on X](05-AI-Applications/Content-Creation/极简插画提示词/index.md)
-  - [一个免费数据库让你的龙虾成为精简版"彭博终端"](05-AI-Applications/Finance-Tools/OpenClaw精简版彭博终端/index.md)
+  - [一个免费数据库让你的龙虾成为精简版“彭博终端”](05-AI-Applications/Finance-Tools/OpenClaw精简版彭博终端/index.md)
   - [OpenClaw A股量化投研：必备实战Skill一键安装+量化养虾安全铁律](05-AI-Applications/Finance-Tools/OpenClaw量化投研安全铁律/index.md)
   - [金融行业必装的 10 大 OpenClaw Skills](05-AI-Applications/Finance-Tools/金融行业十大Skills/index.md)
   - [How to 10x your Claude Skills (using Karpathy's autoresearch method) 如何将你的克劳德技能提升10倍（使用卡帕西的自动研究方法）](05-AI-Applications/Research/AutoResearch优化Claude技能/index.md)
   - [工具会过时，框架不会——拆解 autoresearch 背后的迭代方法论【通俗易懂版】](05-AI-Applications/Research/AutoResearch迭代方法论/index.md)
   - [Using Claude Code While Writing a Research Paper在撰写研究论文时使用 Claude Code](05-AI-Applications/Research/ClaudeCode辅助写论文/index.md)
   - [KARPATHY 的 AUTORESEARCH：当 AI 开始自己做研究](05-AI-Applications/Research/Karpathy的AutoResearch/index.md)
-  - [Karpathy's autoresearch QuickstartKarpathy 的自动研究快速入门](05-AI-Applications/Research/Karpathy自动研究入门/index.md)
+  - [Karpathy’s autoresearch QuickstartKarpathy 的自动研究快速入门](05-AI-Applications/Research/Karpathy自动研究入门/index.md)
 
 ### 06-LLM-Foundations (6)
 
@@ -245,6 +246,7 @@
 
 ## Recent Entries
 
+  - [做中转站3天，收益5w+，亏损17w+，曝光中转站套路｜踩坑记录](04-AI-Infrastructure/API-Proxy/AI中转站风险与选购指南/index.md) — `04-AI-Infrastructure` *(2026-05-14)*
   - [从 OpenAI 客服 Demo 看企业 Agent：关键不是会聊天，而是会办事](01-AI-Agents/Architecture/企业客服Agent架构解析/index.md) — `01-AI-Agents` *(2026-05-13)*
   - [Meta-Meta-Prompting: The Secret to Making AI Agents Work](01-AI-Agents/Architecture/复利个人AI系统构建/index.md) — `01-AI-Agents` *(2026-05-10)*
   - [AI全自动视频工作流揭秘：Codex + Remotion零基础保姆级教程](05-AI-Applications/Content-Creation/AI全自动视频制作教程/index.md) — `05-AI-Applications` *(2026-05-10)*
@@ -264,8 +266,7 @@
   - [2026年AI副业变现超详细实操指南——共5个项目从0-1，让AI选择最适合你的项目并列出to-do-list（合计3w+字）](05-AI-Applications/Content-Creation/AI副业变现五项目指南/index.md) — `05-AI-Applications` *(2026-04-19)*
   - [2026中推5大躺赚路径！新手0成本上手变现5位数，原理+案例合集一次看完](05-AI-Applications/Content-Creation/中推圈AI变现五路径/index.md) — `05-AI-Applications` *(2026-04-19)*
   - [Using Claude Code: Session Management & 1M Context](03-Claude-Code/Tutorials/ClaudeCode会话上下文管理/index.md) — `03-Claude-Code` *(2026-04-16)*
-  - [黄仁勋最新访谈，谈及中国芯片算力与Anthropic以及Mythos模型等问题（全文2.4万字）](22-Political-Economy/黄仁勋谈中美芯片AI竞争/index.md) — `22-Political-Economy` *(2026-04-16)*
 
 ---
 
-*Last updated: 2026-05-14 01:11:13*
+*Last updated: 2026-05-15 01:14:58*
