@@ -16,9 +16,9 @@
 | 06-LLM-Foundations | 6 | 0 | 0 | **6** |
 | 10-Thinking-Models | 5 | 0 | 0 | **5** |
 | 20-Investment | 22 | 0 | 0 | **22** |
-| 21-Business | 7 | 0 | 0 | **7** |
+| 21-Business | 8 | 0 | 0 | **8** |
 | 22-Political-Economy | 1 | 0 | 0 | **1** |
-| **Total** | **164** | **0** | **0** | **164** |
+| **Total** | **165** | **0** | **0** | **165** |
 
 
 ---
@@ -215,8 +215,9 @@
   - [数据3_回看数据2024年末](20-Investment/Macro/回看数据2024年末/index.md)
   - [数据1_正眼看数据当下身在何处](20-Investment/Macro/正眼看数据当下身在何处/index.md)
 
-### 21-Business (7)
+### 21-Business (8)
 
+  - [我是怎么选择用 AI 替换哪些员工的](21-Business/AI裁员重组的商业逻辑/index.md)
   - [记一次 Stripe 封号：从全线封禁到全部恢复](21-Business/Stripe封号申诉全流程/index.md)
   - [一张 U 卡，搞定所有海外订阅支付](21-Business/U卡搞定海外AI订阅/index.md)
   - [From Hierarchy to Intelligence](21-Business/从层级到智能/index.md)
@@ -246,6 +247,7 @@
 
 ## Recent Entries
 
+  - [我是怎么选择用 AI 替换哪些员工的](21-Business/AI裁员重组的商业逻辑/index.md) — `21-Business` *(2026-05-22)*
   - [做中转站3天，收益5w+，亏损17w+，曝光中转站套路｜踩坑记录](04-AI-Infrastructure/API-Proxy/AI中转站风险与选购指南/index.md) — `04-AI-Infrastructure` *(2026-05-14)*
   - [从 OpenAI 客服 Demo 看企业 Agent：关键不是会聊天，而是会办事](01-AI-Agents/Architecture/企业客服Agent架构解析/index.md) — `01-AI-Agents` *(2026-05-13)*
   - [Meta-Meta-Prompting: The Secret to Making AI Agents Work](01-AI-Agents/Architecture/复利个人AI系统构建/index.md) — `01-AI-Agents` *(2026-05-10)*
@@ -265,8 +267,7 @@
   - [Google Deepmind论文解读：如何给AI Agent 投毒](01-AI-Agents/Architecture/AI Agent六类攻击陷阱/index.md) — `01-AI-Agents` *(2026-04-20)*
   - [2026年AI副业变现超详细实操指南——共5个项目从0-1，让AI选择最适合你的项目并列出to-do-list（合计3w+字）](05-AI-Applications/Content-Creation/AI副业变现五项目指南/index.md) — `05-AI-Applications` *(2026-04-19)*
   - [2026中推5大躺赚路径！新手0成本上手变现5位数，原理+案例合集一次看完](05-AI-Applications/Content-Creation/中推圈AI变现五路径/index.md) — `05-AI-Applications` *(2026-04-19)*
-  - [Using Claude Code: Session Management & 1M Context](03-Claude-Code/Tutorials/ClaudeCode会话上下文管理/index.md) — `03-Claude-Code` *(2026-04-16)*
 
 ---
 
-*Last updated: 2026-05-15 01:14:58*
+*Last updated: 2026-05-23 01:10:54*
