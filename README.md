@@ -8,29 +8,30 @@
 
 | Category | Articles | Books | Notes | Total |
 |----------|----------|-------|-------|-------|
-| 01-AI-Agents | 36 | 0 | 0 | **36** |
+| 01-AI-Agents | 37 | 0 | 0 | **37** |
 | 02-AI-Skills-and-Plugins | 24 | 0 | 0 | **24** |
-| 03-Claude-Code | 26 | 0 | 0 | **26** |
+| 03-Claude-Code | 27 | 0 | 0 | **27** |
 | 04-AI-Infrastructure | 16 | 0 | 0 | **16** |
 | 05-AI-Applications | 21 | 0 | 0 | **21** |
 | 06-LLM-Foundations | 6 | 0 | 0 | **6** |
-| 10-Thinking-Models | 5 | 0 | 0 | **5** |
+| 10-Thinking-Models | 6 | 0 | 0 | **6** |
 | 20-Investment | 22 | 0 | 0 | **22** |
-| 21-Business | 8 | 0 | 0 | **8** |
+| 21-Business | 9 | 0 | 0 | **9** |
 | 22-Political-Economy | 1 | 0 | 0 | **1** |
-| **Total** | **165** | **0** | **0** | **165** |
+| **Total** | **169** | **0** | **0** | **169** |
 
 
 ---
 
 ## AI & Technology
 
-### 01-AI-Agents (36)
+### 01-AI-Agents (37)
 
   - [Google Deepmind论文解读：如何给AI Agent 投毒](01-AI-Agents/Architecture/AI Agent六类攻击陷阱/index.md)
   - [Agent 的信息经济学：少即是多的理论基础](01-AI-Agents/Architecture/Agent信息经济学/index.md)
   - [你不知道的 Agent：原理、架构与工程实践](01-AI-Agents/Architecture/Agent原理架构与工程实践/index.md)
   - [你的 Agent 有两个老板，你只是其中一个](01-AI-Agents/Architecture/Agent安全与身份信任/index.md)
+  - [Designing loops with Fable 5用 Fable 5 设计循环](01-AI-Agents/Architecture/Fable5循环与记忆设计/index.md)
   - [OpenClaw System Prompt 的"九层塔"：一个 AI Agent 的完整人格是怎么组装出来的？](01-AI-Agents/Architecture/SystemPrompt九层塔解析/index.md)
   - [呕心沥血肝出来的，奉献给你们的龙虾了：OpenClaw Agent System Prompt 架构详解（9层）](01-AI-Agents/Architecture/SystemPrompt九层架构详解/index.md)
   - [深度解析：pi-ai 与 pi-agent-core](01-AI-Agents/Architecture/pi-ai与pi-agent-core解析/index.md)
@@ -91,7 +92,7 @@
   - [龙虾从"会聊天"到"会干活"，只差一个 Skills](02-AI-Skills-and-Plugins/Skills/从聊天到干活只差一个Skills/index.md)
   - [实战教学:从0到1写出一个你自己的Skill](02-AI-Skills-and-Plugins/Skills/从零开始编写Skill教程/index.md)
 
-### 03-Claude-Code (26)
+### 03-Claude-Code (27)
 
   - [My Ghostty setup for Claude Code with SAND Keybindings我的 Claude Code Ghostty 设置搭配 SAND 快捷键方案](03-Claude-Code/Environment/Ghostty-SAND快捷键方案/index.md)
   - [Ghostty：Claude Code的最佳搭档，从零到快乐鬼混](03-Claude-Code/Environment/Ghostty搭配ClaudeCode/index.md)
@@ -103,6 +104,7 @@
   - [Using Claude Code: Session Management & 1M Context](03-Claude-Code/Tutorials/ClaudeCode会话上下文管理/index.md)
   - [这可能最最权威的 Claude code 教程， Claude code 作者发布 13 条指导](03-Claude-Code/Tutorials/ClaudeCode官方十三条指导/index.md)
   - [你不知道的 Claude Code：架构、治理与工程实践](03-Claude-Code/Tutorials/ClaudeCode架构与治理/index.md)
+  - [How to Build a Self-Improving Loop in Claude Code (Exact Setup Inside) 如何在 Claude Code 中构建自我改进循环（内含精确设置）](03-Claude-Code/Tutorials/ClaudeCode自改进循环/index.md)
   - [Ultimate Claude Cowork Starter Pack Every Plugin, Skill, and Workflow You Need终极 Claude Cowork 入门包：你需要的所有插件、技能和工作流程](03-Claude-Code/Tutorials/ClaudeCowork入门套件/index.md)
   - [The Ultimate Beginner’s Guide to Claude (March 2026) 克劳德终极新手指南（2026年3月）](03-Claude-Code/Tutorials/Claude新手终极指南2026/index.md)
   - [当你正确设置 Claude 后，你再也不想回去用 Chatgpt 了](03-Claude-Code/Tutorials/Claude正确设置全攻略/index.md)
@@ -177,8 +179,9 @@
 
 ## Humanities & Thinking
 
-### 10-Thinking-Models (5)
+### 10-Thinking-Models (6)
 
+  - [LOOP ENGINEERING：当工程回归哲学](10-Thinking-Models/Loop工程的哲学本质/index.md)
   - [Schlep Blindness](10-Thinking-Models/创业视盲与苦工/index.md)
   - [Four Product Discovery Models A Practical Map](10-Thinking-Models/四种产品发现模型/index.md)
   - [Boil the Ocean](10-Thinking-Models/放大野心与煮沸海洋/index.md)
@@ -215,7 +218,7 @@
   - [数据3_回看数据2024年末](20-Investment/Macro/回看数据2024年末/index.md)
   - [数据1_正眼看数据当下身在何处](20-Investment/Macro/正眼看数据当下身在何处/index.md)
 
-### 21-Business (8)
+### 21-Business (9)
 
   - [我是怎么选择用 AI 替换哪些员工的](21-Business/AI裁员重组的商业逻辑/index.md)
   - [记一次 Stripe 封号：从全线封禁到全部恢复](21-Business/Stripe封号申诉全流程/index.md)
@@ -225,6 +228,7 @@
   - [Google's 20-year secret is now available to every enterprise](21-Business/决策追踪重塑企业软件/index.md)
   - [对话大疆汪滔：求真理、得自由、活成故事](21-Business/大疆汪滔创业二十年/index.md)
   - [美国特拉华州（Delaware）公司年审与缴税完整指南](21-Business/特拉华州公司年审缴税指南/index.md)
+  - [实测顺利下户！美国汇丰账户开户详细步骤](21-Business/美国汇丰账户开户教程/index.md)
 
 ### 22-Political-Economy (1)
 
@@ -247,6 +251,10 @@
 
 ## Recent Entries
 
+  - [Designing loops with Fable 5用 Fable 5 设计循环](01-AI-Agents/Architecture/Fable5循环与记忆设计/index.md) — `01-AI-Agents` *(2026-06-11)*
+  - [How to Build a Self-Improving Loop in Claude Code (Exact Setup Inside) 如何在 Claude Code 中构建自我改进循环（内含精确设置）](03-Claude-Code/Tutorials/ClaudeCode自改进循环/index.md) — `03-Claude-Code` *(2026-06-11)*
+  - [LOOP ENGINEERING：当工程回归哲学](10-Thinking-Models/Loop工程的哲学本质/index.md) — `10-Thinking-Models` *(2026-06-11)*
+  - [实测顺利下户！美国汇丰账户开户详细步骤](21-Business/美国汇丰账户开户教程/index.md) — `21-Business` *(2026-06-11)*
   - [我是怎么选择用 AI 替换哪些员工的](21-Business/AI裁员重组的商业逻辑/index.md) — `21-Business` *(2026-05-22)*
   - [做中转站3天，收益5w+，亏损17w+，曝光中转站套路｜踩坑记录](04-AI-Infrastructure/API-Proxy/AI中转站风险与选购指南/index.md) — `04-AI-Infrastructure` *(2026-05-14)*
   - [从 OpenAI 客服 Demo 看企业 Agent：关键不是会聊天，而是会办事](01-AI-Agents/Architecture/企业客服Agent架构解析/index.md) — `01-AI-Agents` *(2026-05-13)*
@@ -263,11 +271,7 @@
   - [我用 CREAO × GPT-Image-2 做了一本全自动生成的女儿绘本](05-AI-Applications/Content-Creation/AI全自动生成儿童绘本/index.md) — `05-AI-Applications` *(2026-04-23)*
   - [记一次 Stripe 封号：从全线封禁到全部恢复](21-Business/Stripe封号申诉全流程/index.md) — `21-Business` *(2026-04-23)*
   - [做中转站的，90%的人正在被上游收割，自己还不知道。](04-AI-Infrastructure/API-Proxy/中转站防被上游收割/index.md) — `04-AI-Infrastructure` *(2026-04-22)*
-  - [2026 企业AI转型全面指南](21-Business/企业AI转型实战指南/index.md) — `21-Business` *(2026-04-21)*
-  - [Google Deepmind论文解读：如何给AI Agent 投毒](01-AI-Agents/Architecture/AI Agent六类攻击陷阱/index.md) — `01-AI-Agents` *(2026-04-20)*
-  - [2026年AI副业变现超详细实操指南——共5个项目从0-1，让AI选择最适合你的项目并列出to-do-list（合计3w+字）](05-AI-Applications/Content-Creation/AI副业变现五项目指南/index.md) — `05-AI-Applications` *(2026-04-19)*
-  - [2026中推5大躺赚路径！新手0成本上手变现5位数，原理+案例合集一次看完](05-AI-Applications/Content-Creation/中推圈AI变现五路径/index.md) — `05-AI-Applications` *(2026-04-19)*
 
 ---
 
-*Last updated: 2026-05-23 01:10:54*
+*Last updated: 2026-06-12 01:11:24*

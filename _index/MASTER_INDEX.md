@@ -8,7 +8,7 @@
 
 ## 01-AI-Agents
 
-### Architecture (13)
+### Architecture (14)
 
 - [Agent信息经济学](../01-AI-Agents/Architecture/Agent信息经济学/index.md) — 用Epiplexity理论解释为何Agent的context质量比数量更重要 `#信息论` `#Context工程` `#Epiplexity`
 - [Agent原理架构与工程实践](../01-AI-Agents/Architecture/Agent原理架构与工程实践/index.md) — Agent控制流、上下文工程、工具设计、记忆与多Agent架构的系统梳理 `#agent-architecture` `#context-engineering` `#tool-design`
@@ -23,6 +23,7 @@
 - [AI Agent六类攻击陷阱](../01-AI-Agents/Architecture/AI%20Agent六类攻击陷阱/index.md) — Google DeepMind论文系统梳理内容注入、语义操控、记忆投毒等六类AI Agent攻击框架与防御方案 `#AI安全` `#Agent安全` `#攻击防御`
 - [复利个人AI系统构建](../01-AI-Agents/Architecture/复利个人AI系统构建/index.md) — YC CEO GarryTan实践分享：fat skills+thin harness+10万页大脑，Skillify元技能实现技能创造技能的复利个人AI架构 `#个人AI系统` `#知识库` `#技能复利`
 - [企业客服Agent架构解析](../01-AI-Agents/Architecture/企业客服Agent架构解析/index.md) — 拆解OpenAI航空客服Demo五层架构：路由、工具权限硬约束、结构化上下文、独立Guardrail与可观测性 `#企业Agent` `#多Agent架构` `#Guardrails`
+- [Fable5循环与记忆设计](../01-AI-Agents/Architecture/Fable5循环与记忆设计/index.md) — Fable 5 通过自我校正循环与验证子代理架构提升任务性能，跨会话记忆实现持续学习 `#Fable5` `#自改进循环` `#Agent记忆`
 
 ### Memory (8)
 
@@ -100,7 +101,7 @@
 
 ## 03-Claude-Code
 
-### Tutorials (20)
+### Tutorials (22)
 
 - [五十条Claude-Code技巧](../03-Claude-Code/Tutorials/五十条Claude-Code技巧/index.md) — 来自官方文档和社区的50条Claude Code日常使用技巧与最佳实践 `#Claude Code` `#最佳实践`
 - [claude文件夹结构详解](../03-Claude-Code/Tutorials/claude文件夹结构详解/index.md) — .claude文件夹完整解剖：CLAUDE.md、rules、commands、skills的配置指南 `#Claude Code` `#.claude文件夹`
@@ -123,6 +124,7 @@
 - [ClaudeCode三十一天教程](../03-Claude-Code/Tutorials/ClaudeCode三十一天教程/index.md) — 31天每日一技巧，从快捷键到子代理模式的系统性功能教程 `#每日技巧` `#功能速查`
 - [ClaudeCowork入门套件](../03-Claude-Code/Tutorials/ClaudeCowork入门套件/index.md) — Cowork完整入门包：插件安装、上下文文件和日常工作流模板 `#Cowork` `#工作流自动化`
 - [ClaudeCode会话上下文管理](../03-Claude-Code/Tutorials/ClaudeCode会话上下文管理/index.md) — 详解百万token上下文的双刃剑效应，及rewind/compact/子代理等会话管理最佳实践 `#Claude Code` `#会话管理` `#上下文窗口`
+- [ClaudeCode自改进循环](../03-Claude-Code/Tutorials/ClaudeCode自改进循环/index.md) — 三文件搭建Claude Code自动测试修复循环：CLAUDE.md协议+Stop钩子+fixer子代理 `#Claude Code` `#自改进循环` `#Hooks`
 
 ### Environment (3)
 
@@ -221,6 +223,7 @@
 - [硅谷顶级PM方法论](../10-Thinking-Models/硅谷顶级PM方法论/index.md) — Lenny's Newsletter的PM方法论资源包与Skill免费开源 `#产品管理` `#PM方法论`
 - [四种产品发现模型](../10-Thinking-Models/四种产品发现模型/index.md) — 用2x2矩阵梳理产品发现的四种组织模式及各自利弊 `#产品管理` `#决策模型` `#组织设计`
 - [创业视盲与苦工](../10-Thinking-Models/创业视盲与苦工/index.md) — 潜意识对苦差事的回避让创业者错过最有价值的机会，直面恐惧才能发现真正的大问题 `#思维模型` `#创业心理` `#决策盲区`
+- [Loop工程的哲学本质](../10-Thinking-Models/Loop工程的哲学本质/index.md) — while循环是AI智能体的底层架构，Prompt本质是目标函数，工程从过程控制转向目标治理需要哲学思维 `#Loop Engineering` `#控制论` `#方法论`
 
 ---
 
@@ -290,6 +293,7 @@
 - [企业AI转型实战指南](../21-Business/企业AI转型实战指南/index.md) — 一人公司创始人以亲身经验拆解企业AI转型的通用需求、ROI算法、薄壳公司模型与安全红线 `#企业AI转型` `#降本增效` `#薄壳公司`
 - [Stripe封号申诉全流程](../21-Business/Stripe封号申诉全流程/index.md) — 独立开发者因NSFW触发Stripe全线连坐封禁，三轮申诉复盘封号逻辑与支付多元化策略 `#Stripe` `#支付合规` `#独立开发者`
 - [AI裁员重组的商业逻辑](../21-Business/AI裁员重组的商业逻辑/index.md) — Cloudflare CEO以德鲁克三类角色框架为由，裁减"衡量者"型岗位并大量招募AI原生"建造者"与"销售者" `#企业管理` `#AI转型` `#组织变革`
+- [美国汇丰账户开户教程](../21-Business/美国汇丰账户开户教程/index.md) — 持有汇丰卓越理财账户的内地/港澳用户线上申请美国HSBC Premier账户的12步完整流程 `#美国银行` `#HSBC` `#海外开户`
 
 ---
 

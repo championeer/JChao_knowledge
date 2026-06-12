@@ -35,7 +35,7 @@ You go from messenger to reviewer. The setup is 3 files.你从信使变成了审
 
 ## File 1: the loop protocol in CLAUDE.mdFile 1: CLAUDE.md 中的循环协议
 
-This tells Claude that "done" means "verified", not "written". Drop it in your project root:这告诉 Claude，“完成”意味着“已验证”，而非“已编写”。将其放入你的项目根目录：
+This tells Claude that "done" means "verified", not "written". Drop it in your project root:这告诉 Claude，"完成"意味着"已验证"，而非"已编写"。将其放入你的项目根目录：
 
 ```markdown
 ## Loop protocol
@@ -86,7 +86,7 @@ The protocol asks Claude to check itself. This hook makes it physical. Drop into
 
 The PostToolUse hook feeds type errors back after every edit, so Claude self-corrects mid-task. PostToolUse 钩子会在每次编辑后反馈类型错误，因此 Claude 能在任务过程中自我修正。
 
-The Stop hook runs the test suite when Claude tries to finish. Failing output goes straight back into the session, and the loop protocol forces another iteration instead of a fake "done".Stop 钩子在 Claude 尝试完成时运行测试套件。失败的输出直接返回会话，循环协议强制进行另一次迭代，而不是虚假的“完成”。
+The Stop hook runs the test suite when Claude tries to finish. Failing output goes straight back into the session, and the loop protocol forces another iteration instead of a fake "done".Stop 钩子在 Claude 尝试完成时运行测试套件。失败的输出直接返回会话，循环协议强制进行另一次迭代，而不是虚假的"完成"。
 
 For Python, swap the commands for **pytest -q** and **pyright**. For Rust, **cargo test --quiet** and cargo check.对于 Python，交换 pytest -q 和 pyright 的命令。对于 Rust，则是 cargo test --quiet 和 cargo check。
 
@@ -120,7 +120,7 @@ The main session calls it with [@fixer](https://x.com/@fixer) when the loop stal
 
 ## Common mistakes
 
-**No retry limit.** Without "5 attempts max" Claude can burn an hour circling one error. The limit turns an infinite loop into a report.无重试限制。没有“最多尝试 5 次”的限制，Claude 可能会花一个小时围绕一个错误打转。这个限制将无限循环变成了一个报告。
+**No retry limit.** Without "5 attempts max" Claude can burn an hour circling one error. The limit turns an infinite loop into a report.无重试限制。没有"最多尝试 5 次"的限制，Claude 可能会花一个小时围绕一个错误打转。这个限制将无限循环变成了一个报告。
 
 **Tests too slow for the loop.** If the suite takes 90 seconds, each iteration crawls. Point the Stop hook at unit tests, leave integration for CI.
 
