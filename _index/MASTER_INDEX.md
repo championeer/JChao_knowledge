@@ -101,7 +101,7 @@
 
 ## 03-Claude-Code
 
-### Tutorials (22)
+### Tutorials (23)
 
 - [五十条Claude-Code技巧](../03-Claude-Code/Tutorials/五十条Claude-Code技巧/index.md) — 来自官方文档和社区的50条Claude Code日常使用技巧与最佳实践 `#Claude Code` `#最佳实践`
 - [claude文件夹结构详解](../03-Claude-Code/Tutorials/claude文件夹结构详解/index.md) — .claude文件夹完整解剖：CLAUDE.md、rules、commands、skills的配置指南 `#Claude Code` `#.claude文件夹`
@@ -125,6 +125,7 @@
 - [ClaudeCowork入门套件](../03-Claude-Code/Tutorials/ClaudeCowork入门套件/index.md) — Cowork完整入门包：插件安装、上下文文件和日常工作流模板 `#Cowork` `#工作流自动化`
 - [ClaudeCode会话上下文管理](../03-Claude-Code/Tutorials/ClaudeCode会话上下文管理/index.md) — 详解百万token上下文的双刃剑效应，及rewind/compact/子代理等会话管理最佳实践 `#Claude Code` `#会话管理` `#上下文窗口`
 - [ClaudeCode自改进循环](../03-Claude-Code/Tutorials/ClaudeCode自改进循环/index.md) — 三文件搭建Claude Code自动测试修复循环：CLAUDE.md协议+Stop钩子+fixer子代理 `#Claude Code` `#自改进循环` `#Hooks`
+- [自主执行三命令详解](../03-Claude-Code/Tutorials/自主执行三命令详解/index.md) — goal管终点达标即停、loop管节奏定时轮询、workflows管并行规模，三命令各解一个维度 `#Claude Code` `#自动化命令` `#自主执行`
 
 ### Environment (3)
 

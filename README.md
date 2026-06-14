@@ -10,7 +10,7 @@
 |----------|----------|-------|-------|-------|
 | 01-AI-Agents | 37 | 0 | 0 | **37** |
 | 02-AI-Skills-and-Plugins | 24 | 0 | 0 | **24** |
-| 03-Claude-Code | 27 | 0 | 0 | **27** |
+| 03-Claude-Code | 28 | 0 | 0 | **28** |
 | 04-AI-Infrastructure | 16 | 0 | 0 | **16** |
 | 05-AI-Applications | 21 | 0 | 0 | **21** |
 | 06-LLM-Foundations | 6 | 0 | 0 | **6** |
@@ -18,7 +18,7 @@
 | 20-Investment | 22 | 0 | 0 | **22** |
 | 21-Business | 9 | 0 | 0 | **9** |
 | 22-Political-Economy | 1 | 0 | 0 | **1** |
-| **Total** | **169** | **0** | **0** | **169** |
+| **Total** | **170** | **0** | **0** | **170** |
 
 
 ---
@@ -92,7 +92,7 @@
   - [龙虾从"会聊天"到"会干活"，只差一个 Skills](02-AI-Skills-and-Plugins/Skills/从聊天到干活只差一个Skills/index.md)
   - [实战教学:从0到1写出一个你自己的Skill](02-AI-Skills-and-Plugins/Skills/从零开始编写Skill教程/index.md)
 
-### 03-Claude-Code (27)
+### 03-Claude-Code (28)
 
   - [My Ghostty setup for Claude Code with SAND Keybindings我的 Claude Code Ghostty 设置搭配 SAND 快捷键方案](03-Claude-Code/Environment/Ghostty-SAND快捷键方案/index.md)
   - [Ghostty：Claude Code的最佳搭档，从零到快乐鬼混](03-Claude-Code/Environment/Ghostty搭配ClaudeCode/index.md)
@@ -120,6 +120,7 @@
   - [Building CLIs for agents](03-Claude-Code/Tutorials/为Agent构建CLI/index.md)
   - [50 Claude Code Tips and Best Practices For Daily Use50 条 Claude Code 使用技巧和最佳实践](03-Claude-Code/Tutorials/五十条Claude-Code技巧/index.md)
   - [践行一人公司，用 4 文件 4 命令管理 Claude Code 全程开发](03-Claude-Code/Tutorials/四文件四命令极简工作流/index.md)
+  - [Goal + Loop + Workflows 三大利器](03-Claude-Code/Tutorials/自主执行三命令详解/index.md)
   - [I stole Anthropic's internal cheat code for getting perfect Claude outputs on the first try](03-Claude-Code/Tutorials/规划代理完美输出秘诀/index.md)
 
 ### 04-AI-Infrastructure (16)
@@ -251,6 +252,7 @@
 
 ## Recent Entries
 
+  - [Goal + Loop + Workflows 三大利器](03-Claude-Code/Tutorials/自主执行三命令详解/index.md) — `03-Claude-Code` *(2026-06-14)*
   - [Designing loops with Fable 5用 Fable 5 设计循环](01-AI-Agents/Architecture/Fable5循环与记忆设计/index.md) — `01-AI-Agents` *(2026-06-11)*
   - [How to Build a Self-Improving Loop in Claude Code (Exact Setup Inside) 如何在 Claude Code 中构建自我改进循环（内含精确设置）](03-Claude-Code/Tutorials/ClaudeCode自改进循环/index.md) — `03-Claude-Code` *(2026-06-11)*
   - [LOOP ENGINEERING：当工程回归哲学](10-Thinking-Models/Loop工程的哲学本质/index.md) — `10-Thinking-Models` *(2026-06-11)*
@@ -270,8 +272,7 @@
   - [科普下中转号里的行业内幕](04-AI-Infrastructure/API-Proxy/Claude中转号行业内幕/index.md) — `04-AI-Infrastructure` *(2026-04-23)*
   - [我用 CREAO × GPT-Image-2 做了一本全自动生成的女儿绘本](05-AI-Applications/Content-Creation/AI全自动生成儿童绘本/index.md) — `05-AI-Applications` *(2026-04-23)*
   - [记一次 Stripe 封号：从全线封禁到全部恢复](21-Business/Stripe封号申诉全流程/index.md) — `21-Business` *(2026-04-23)*
-  - [做中转站的，90%的人正在被上游收割，自己还不知道。](04-AI-Infrastructure/API-Proxy/中转站防被上游收割/index.md) — `04-AI-Infrastructure` *(2026-04-22)*
 
 ---
 
-*Last updated: 2026-06-12 01:11:24*
+*Last updated: 2026-06-14 01:06:21*
